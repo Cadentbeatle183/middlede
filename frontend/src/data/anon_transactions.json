@@ -13,8 +13,8 @@
       "currency": "KRW",
       "openDate": "2020-03",
       "status": "ACTIVE",
-      "balance": 1030316,
-      "availableBalance": 999741,
+      "balance": 1684900,
+      "availableBalance": 1634900,
       "transactions": [
         {
           "transactionId": "ANON_E43F3C",
@@ -24,12 +24,12 @@
           "dayOfMonth": 11,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -27517,
-          "balanceAfter": 2418482,
+          "amount": -45000,
+          "balanceAfter": 3955000,
           "description": "통신비 자동납부 (SKT)",
           "categoryCode": "TELECOM_MOBILE_001",
           "counterparty": {
-            "name": "TELECOM_MOBILE_001",
+            "name": "SK텔레콤",
             "bank": "하나은행",
             "accountNumber": "111-**-44455"
           }
@@ -42,12 +42,12 @@
           "dayOfMonth": 11,
           "time": "08:15:00",
           "type": "출금",
-          "amount": -917,
-          "balanceAfter": 2417565,
+          "amount": -1500,
+          "balanceAfter": 3953500,
           "description": "교통카드 충전",
           "categoryCode": "TRANSPORT_CHARGE_001",
           "counterparty": {
-            "name": "TRANSPORT_CHARGE_001",
+            "name": "티머니",
             "bank": "선불카드",
             "accountNumber": "TMONEY-**-001"
           }
@@ -60,12 +60,12 @@
           "dayOfMonth": 11,
           "time": "19:20:10",
           "type": "출금",
-          "amount": -13453,
-          "balanceAfter": 2404112,
+          "amount": -22000,
+          "balanceAfter": 3931500,
           "description": "배달의민족 결제",
           "categoryCode": "F&B_DELIVERY_001",
           "counterparty": {
-            "name": "F&B_DELIVERY_001",
+            "name": "우아한형제들",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -78,12 +78,12 @@
           "dayOfMonth": 11,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -27517,
-          "balanceAfter": 2376594,
+          "amount": -45000,
+          "balanceAfter": 3886500,
           "description": "통신비 자동납부 (SKT)",
           "categoryCode": "TELECOM_MOBILE_001",
           "counterparty": {
-            "name": "TELECOM_MOBILE_001",
+            "name": "SK텔레콤",
             "bank": "하나은행",
             "accountNumber": "111-**-44455"
           }
@@ -96,12 +96,12 @@
           "dayOfMonth": 13,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -11007,
-          "balanceAfter": 2365587,
+          "amount": -18000,
+          "balanceAfter": 3868500,
           "description": "도시가스요금 자동납부",
           "categoryCode": "UTILITY_GAS_001",
           "counterparty": {
-            "name": "UTILITY_GAS_001",
+            "name": "서울도시가스",
             "bank": "국민은행",
             "accountNumber": "456-**-9012346"
           }
@@ -114,12 +114,12 @@
           "dayOfMonth": 13,
           "time": "10:00:00",
           "type": "출금",
-          "amount": -30575,
-          "balanceAfter": 2335012,
+          "amount": -50000,
+          "balanceAfter": 3818500,
           "description": "헬스장 정기결제",
           "categoryCode": "FIT_GYM_001",
           "counterparty": {
-            "name": "FIT_GYM_001",
+            "name": "스포애니 강남점",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -132,12 +132,12 @@
           "dayOfMonth": 14,
           "time": "00:10:00",
           "type": "출금",
-          "amount": -6665,
-          "balanceAfter": 2328347,
+          "amount": -10900,
+          "balanceAfter": 3807600,
           "description": "유튜브 프리미엄 정기결제",
           "categoryCode": "ENT_OTT_STREAMING_002",
           "counterparty": {
-            "name": "ENT_OTT_STREAMING_002",
+            "name": "GOOGLE YOUTUBE",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -150,12 +150,12 @@
           "dayOfMonth": 14,
           "time": "09:00:00",
           "type": "출금",
-          "amount": -336325,
-          "balanceAfter": 1992022,
+          "amount": -550000,
+          "balanceAfter": 3257600,
           "description": "월세 자동이체",
           "categoryCode": "HOUSING_RENT_001",
           "counterparty": {
-            "name": "HOUSING_RENT_001",
+            "name": "임대인 박영희",
             "bank": "우리은행",
             "accountNumber": "1002-**-678901"
           }
@@ -168,12 +168,12 @@
           "dayOfMonth": 14,
           "time": "19:20:10",
           "type": "출금",
-          "amount": -13453,
-          "balanceAfter": 1978569,
+          "amount": -22000,
+          "balanceAfter": 3235600,
           "description": "배달의민족 결제",
           "categoryCode": "F&B_DELIVERY_001",
           "counterparty": {
-            "name": "F&B_DELIVERY_001",
+            "name": "우아한형제들",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -186,12 +186,12 @@
           "dayOfMonth": 15,
           "time": "18:20:05",
           "type": "이체",
-          "amount": -18345,
-          "balanceAfter": 1960224,
+          "amount": -30000,
+          "balanceAfter": 3205600,
           "description": "친구에게 이체",
           "categoryCode": "TRANSFER_FRIEND_001",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_001",
+            "name": "김철수",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1234567"
           }
@@ -204,12 +204,12 @@
           "dayOfMonth": 15,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -11007,
-          "balanceAfter": 1949217,
+          "amount": -18000,
+          "balanceAfter": 3187600,
           "description": "도시가스요금 자동납부",
           "categoryCode": "UTILITY_GAS_001",
           "counterparty": {
-            "name": "UTILITY_GAS_001",
+            "name": "서울도시가스",
             "bank": "국민은행",
             "accountNumber": "456-**-9012346"
           }
@@ -222,12 +222,12 @@
           "dayOfMonth": 15,
           "time": "18:30:00",
           "type": "출금",
-          "amount": -25683,
-          "balanceAfter": 1923534,
+          "amount": -42000,
+          "balanceAfter": 3145600,
           "description": "올리브영",
           "categoryCode": "SHOPPING_BEAUTY_001",
           "counterparty": {
-            "name": "SHOPPING_BEAUTY_001",
+            "name": "CJ올리브영",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -240,12 +240,12 @@
           "dayOfMonth": 17,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -11007,
-          "balanceAfter": 1912527,
+          "amount": -18000,
+          "balanceAfter": 3127600,
           "description": "도시가스요금 자동납부",
           "categoryCode": "UTILITY_GAS_001",
           "counterparty": {
-            "name": "UTILITY_GAS_001",
+            "name": "서울도시가스",
             "bank": "국민은행",
             "accountNumber": "456-**-9012346"
           }
@@ -258,12 +258,12 @@
           "dayOfMonth": 18,
           "time": "19:20:10",
           "type": "출금",
-          "amount": -13453,
-          "balanceAfter": 1899074,
+          "amount": -22000,
+          "balanceAfter": 3105600,
           "description": "배달의민족 결제",
           "categoryCode": "F&B_DELIVERY_001",
           "counterparty": {
-            "name": "F&B_DELIVERY_001",
+            "name": "우아한형제들",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -276,12 +276,12 @@
           "dayOfMonth": 19,
           "time": "10:00:00",
           "type": "출금",
-          "amount": -30575,
-          "balanceAfter": 1868499,
+          "amount": -50000,
+          "balanceAfter": 3055600,
           "description": "헬스장 정기결제",
           "categoryCode": "FIT_GYM_001",
           "counterparty": {
-            "name": "FIT_GYM_001",
+            "name": "스포애니 강남점",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -294,12 +294,12 @@
           "dayOfMonth": 20,
           "time": "00:05:00",
           "type": "출금",
-          "amount": -8866,
-          "balanceAfter": 1859632,
+          "amount": -14500,
+          "balanceAfter": 3041100,
           "description": "넷플릭스 정기결제",
           "categoryCode": "ENT_OTT_STREAMING_001",
           "counterparty": {
-            "name": "ENT_OTT_STREAMING_001",
+            "name": "NETFLIX",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -312,12 +312,12 @@
           "dayOfMonth": 20,
           "time": "00:15:00",
           "type": "출금",
-          "amount": -6053,
-          "balanceAfter": 1853578,
+          "amount": -9900,
+          "balanceAfter": 3031200,
           "description": "왓챠 정기결제",
           "categoryCode": "ENT_OTT_STREAMING_003",
           "counterparty": {
-            "name": "ENT_OTT_STREAMING_003",
+            "name": "WATCHA",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -330,12 +330,12 @@
           "dayOfMonth": 21,
           "time": "08:15:00",
           "type": "출금",
-          "amount": -917,
-          "balanceAfter": 1852661,
+          "amount": -1500,
+          "balanceAfter": 3029700,
           "description": "교통카드 충전",
           "categoryCode": "TRANSPORT_CHARGE_001",
           "counterparty": {
-            "name": "TRANSPORT_CHARGE_001",
+            "name": "티머니",
             "bank": "선불카드",
             "accountNumber": "TMONEY-**-001"
           }
@@ -348,12 +348,12 @@
           "dayOfMonth": 21,
           "time": "12:30:45",
           "type": "출금",
-          "amount": -5197,
-          "balanceAfter": 1847463,
+          "amount": -8500,
+          "balanceAfter": 3021200,
           "description": "스타벅스 강남점",
           "categoryCode": "F&B_CAFE_001",
           "counterparty": {
-            "name": "F&B_CAFE_001",
+            "name": "스타벅스코리아",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -366,12 +366,12 @@
           "dayOfMonth": 22,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -27517,
-          "balanceAfter": 1819946,
+          "amount": -45000,
+          "balanceAfter": 2976200,
           "description": "통신비 자동납부 (SKT)",
           "categoryCode": "TELECOM_MOBILE_001",
           "counterparty": {
-            "name": "TELECOM_MOBILE_001",
+            "name": "SK텔레콤",
             "bank": "하나은행",
             "accountNumber": "111-**-44455"
           }
@@ -384,12 +384,12 @@
           "dayOfMonth": 22,
           "time": "19:00:00",
           "type": "환불",
-          "amount": 7338,
-          "balanceAfter": 1827284,
+          "amount": 12000,
+          "balanceAfter": 2988200,
           "description": "스포티파이 구독 취소 부분환불",
           "categoryCode": "ENT_MUSIC_001",
           "counterparty": {
-            "name": "ENT_MUSIC_001",
+            "name": "SPOTIFY",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -402,12 +402,12 @@
           "dayOfMonth": 22,
           "time": "11:00:00",
           "type": "출금",
-          "amount": -2751,
-          "balanceAfter": 1824532,
+          "amount": -4500,
+          "balanceAfter": 2983700,
           "description": "스포티파이 정기결제",
           "categoryCode": "ENT_MUSIC_001",
           "counterparty": {
-            "name": "ENT_MUSIC_001",
+            "name": "SPOTIFY",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -420,12 +420,12 @@
           "dayOfMonth": 23,
           "time": "18:20:05",
           "type": "이체",
-          "amount": -18345,
-          "balanceAfter": 1806187,
+          "amount": -30000,
+          "balanceAfter": 2953700,
           "description": "친구에게 이체",
           "categoryCode": "TRANSFER_FRIEND_001",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_001",
+            "name": "김철수",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1234567"
           }
@@ -438,12 +438,12 @@
           "dayOfMonth": 24,
           "time": "00:10:00",
           "type": "출금",
-          "amount": -6665,
-          "balanceAfter": 1799522,
+          "amount": -10900,
+          "balanceAfter": 2942800,
           "description": "유튜브 프리미엄 정기결제",
           "categoryCode": "ENT_OTT_STREAMING_002",
           "counterparty": {
-            "name": "ENT_OTT_STREAMING_002",
+            "name": "GOOGLE YOUTUBE",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -456,12 +456,12 @@
           "dayOfMonth": 26,
           "time": "15:00:00",
           "type": "환불",
-          "amount": 3974,
-          "balanceAfter": 1803496,
+          "amount": 6500,
+          "balanceAfter": 2949300,
           "description": "왓챠 구독 취소 부분환불",
           "categoryCode": "ENT_OTT_STREAMING_003",
           "counterparty": {
-            "name": "ENT_OTT_STREAMING_003",
+            "name": "WATCHA",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -474,12 +474,12 @@
           "dayOfMonth": 27,
           "time": "09:05:00",
           "type": "출금",
-          "amount": -27517,
-          "balanceAfter": 1775979,
+          "amount": -45000,
+          "balanceAfter": 2904300,
           "description": "통신비 자동납부 (SKT)",
           "categoryCode": "TELECOM_MOBILE_001",
           "counterparty": {
-            "name": "TELECOM_MOBILE_001",
+            "name": "SK텔레콤",
             "bank": "하나은행",
             "accountNumber": "111-**-44455"
           }
@@ -492,12 +492,12 @@
           "dayOfMonth": 28,
           "time": "09:00:00",
           "type": "출금",
-          "amount": -336325,
-          "balanceAfter": 1439654,
+          "amount": -550000,
+          "balanceAfter": 2354300,
           "description": "월세 자동이체",
           "categoryCode": "HOUSING_RENT_001",
           "counterparty": {
-            "name": "HOUSING_RENT_001",
+            "name": "임대인 박영희",
             "bank": "우리은행",
             "accountNumber": "1002-**-678901"
           }
@@ -510,12 +510,12 @@
           "dayOfMonth": 29,
           "time": "13:00:00",
           "type": "출금",
-          "amount": -4402,
-          "balanceAfter": 1435251,
+          "amount": -7200,
+          "balanceAfter": 2347100,
           "description": "김밥천국",
           "categoryCode": "F&B_KOREAN_001",
           "counterparty": {
-            "name": "F&B_KOREAN_001",
+            "name": "김밥천국 역삼점",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -528,12 +528,12 @@
           "dayOfMonth": 31,
           "time": "18:20:05",
           "type": "이체",
-          "amount": -18345,
-          "balanceAfter": 1416906,
+          "amount": -30000,
+          "balanceAfter": 2317100,
           "description": "친구에게 이체",
           "categoryCode": "TRANSFER_FRIEND_001",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_001",
+            "name": "김철수",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1234567"
           }
@@ -546,12 +546,12 @@
           "dayOfMonth": 1,
           "time": "10:00:00",
           "type": "출금",
-          "amount": -30575,
-          "balanceAfter": 1386331,
+          "amount": -50000,
+          "balanceAfter": 2267100,
           "description": "헬스장 정기결제",
           "categoryCode": "FIT_GYM_001",
           "counterparty": {
-            "name": "FIT_GYM_001",
+            "name": "스포애니 강남점",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -564,12 +564,12 @@
           "dayOfMonth": 1,
           "time": "09:00:00",
           "type": "출금",
-          "amount": -336325,
-          "balanceAfter": 1050006,
+          "amount": -550000,
+          "balanceAfter": 1717100,
           "description": "월세 자동이체",
           "categoryCode": "HOUSING_RENT_001",
           "counterparty": {
-            "name": "HOUSING_RENT_001",
+            "name": "임대인 박영희",
             "bank": "우리은행",
             "accountNumber": "1002-**-678901"
           }
@@ -582,12 +582,12 @@
           "dayOfMonth": 1,
           "time": "21:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 1040834,
+          "amount": -15000,
+          "balanceAfter": 1702100,
           "description": "CGV 영화관람",
           "categoryCode": "ENT_CINEMA_001",
           "counterparty": {
-            "name": "ENT_CINEMA_001",
+            "name": "CGV 강남",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -600,12 +600,12 @@
           "dayOfMonth": 1,
           "time": "13:00:00",
           "type": "출금",
-          "amount": -4402,
-          "balanceAfter": 1036431,
+          "amount": -7200,
+          "balanceAfter": 1694900,
           "description": "김밥천국",
           "categoryCode": "F&B_KOREAN_001",
           "counterparty": {
-            "name": "F&B_KOREAN_001",
+            "name": "김밥천국 역삼점",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -618,12 +618,12 @@
           "dayOfMonth": 1,
           "time": "19:20:10",
           "type": "출금",
-          "amount": -13453,
-          "balanceAfter": 1022978,
+          "amount": -22000,
+          "balanceAfter": 1672900,
           "description": "배달의민족 결제",
           "categoryCode": "F&B_DELIVERY_001",
           "counterparty": {
-            "name": "F&B_DELIVERY_001",
+            "name": "우아한형제들",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -636,12 +636,12 @@
           "dayOfMonth": 1,
           "time": "19:00:00",
           "type": "환불",
-          "amount": 7338,
-          "balanceAfter": 1030316,
+          "amount": 12000,
+          "balanceAfter": 1684900,
           "description": "스포티파이 구독 취소 부분환불",
           "categoryCode": "ENT_MUSIC_001",
           "counterparty": {
-            "name": "ENT_MUSIC_001",
+            "name": "SPOTIFY",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -660,8 +660,8 @@
       "currency": "KRW",
       "openDate": "2021-07",
       "status": "ACTIVE",
-      "balance": 485897,
-      "availableBalance": 455322,
+      "balance": 794600,
+      "availableBalance": 744600,
       "transactions": [
         {
           "transactionId": "ANON_119A6D",
@@ -671,12 +671,12 @@
           "dayOfMonth": 10,
           "time": "09:30:00",
           "type": "출금",
-          "amount": -5503,
-          "balanceAfter": 144314,
+          "amount": -9000,
+          "balanceAfter": 236000,
           "description": "카카오뱅크 미니 카드 결제 (편의점)",
           "categoryCode": "F_B_CONVENIENCE_001",
           "counterparty": {
-            "name": "F_B_CONVENIENCE_001",
+            "name": "CU",
             "bank": "국민은행",
             "accountNumber": "012-**-888777"
           }
@@ -689,12 +689,12 @@
           "dayOfMonth": 12,
           "time": "15:20:00",
           "type": "출금",
-          "amount": -3974,
-          "balanceAfter": 140339,
+          "amount": -6500,
+          "balanceAfter": 229500,
           "description": "카카오톡 선물하기",
           "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "ETC_KAKAO_001",
+            "name": "카카오",
             "bank": "카카오페이",
             "accountNumber": "KAKAOPAY-**-002"
           }
@@ -707,12 +707,12 @@
           "dayOfMonth": 13,
           "time": "08:00:00",
           "type": "입금",
-          "amount": 30575,
-          "balanceAfter": 170914,
+          "amount": 50000,
+          "balanceAfter": 279500,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -725,12 +725,12 @@
           "dayOfMonth": 14,
           "time": "12:40:00",
           "type": "이체",
-          "amount": -9172,
-          "balanceAfter": 161741,
+          "amount": -15000,
+          "balanceAfter": 264500,
           "description": "친구에게 송금 (영화비)",
           "categoryCode": "TRANSFER_FRIEND_002",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_002",
+            "name": "박지훈",
             "bank": "신한은행",
             "accountNumber": "110-**-666777"
           }
@@ -743,12 +743,12 @@
           "dayOfMonth": 14,
           "time": "09:30:21",
           "type": "입금",
-          "amount": 122300,
-          "balanceAfter": 284041,
+          "amount": 200000,
+          "balanceAfter": 464500,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -761,12 +761,12 @@
           "dayOfMonth": 15,
           "time": "19:40:00",
           "type": "출금",
-          "amount": -15287,
-          "balanceAfter": 268754,
+          "amount": -25000,
+          "balanceAfter": 439500,
           "description": "배달의민족 결제",
           "categoryCode": "F&B_DELIVERY_001",
           "counterparty": {
-            "name": "F&B_DELIVERY_001",
+            "name": "우아한형제들",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -779,12 +779,12 @@
           "dayOfMonth": 17,
           "time": "09:30:21",
           "type": "입금",
-          "amount": 122300,
-          "balanceAfter": 391054,
+          "amount": 200000,
+          "balanceAfter": 639500,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -797,12 +797,12 @@
           "dayOfMonth": 17,
           "time": "10:00:00",
           "type": "이체",
-          "amount": -61150,
-          "balanceAfter": 329904,
+          "amount": -100000,
+          "balanceAfter": 539500,
           "description": "적금 자동이체",
           "categoryCode": "FINANCE_SAVING_001",
           "counterparty": {
-            "name": "FINANCE_SAVING_001",
+            "name": "카카오뱅크 26주적금",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -815,12 +815,12 @@
           "dayOfMonth": 19,
           "time": "08:00:00",
           "type": "입금",
-          "amount": 30575,
-          "balanceAfter": 360479,
+          "amount": 50000,
+          "balanceAfter": 589500,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -833,12 +833,12 @@
           "dayOfMonth": 20,
           "time": "19:40:00",
           "type": "출금",
-          "amount": -15287,
-          "balanceAfter": 345191,
+          "amount": -25000,
+          "balanceAfter": 564500,
           "description": "배달의민족 결제",
           "categoryCode": "F&B_DELIVERY_001",
           "counterparty": {
-            "name": "F&B_DELIVERY_001",
+            "name": "우아한형제들",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -851,12 +851,12 @@
           "dayOfMonth": 20,
           "time": "08:00:00",
           "type": "입금",
-          "amount": 30575,
-          "balanceAfter": 375766,
+          "amount": 50000,
+          "balanceAfter": 614500,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -869,12 +869,12 @@
           "dayOfMonth": 21,
           "time": "22:00:00",
           "type": "입금",
-          "amount": 9172,
-          "balanceAfter": 384939,
+          "amount": 15000,
+          "balanceAfter": 629500,
           "description": "친구에게 받음 (택시비 정산)",
           "categoryCode": "TRANSFER_FRIEND_002",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_002",
+            "name": "박지훈",
             "bank": "신한은행",
             "accountNumber": "110-**-666777"
           }
@@ -887,12 +887,12 @@
           "dayOfMonth": 22,
           "time": "09:30:21",
           "type": "입금",
-          "amount": 122300,
-          "balanceAfter": 507239,
+          "amount": 200000,
+          "balanceAfter": 829500,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -905,12 +905,12 @@
           "dayOfMonth": 24,
           "time": "00:30:00",
           "type": "출금",
-          "amount": -2996,
-          "balanceAfter": 504242,
+          "amount": -4900,
+          "balanceAfter": 824600,
           "description": "멜론 정기결제",
           "categoryCode": "ENT_MUSIC_002",
           "counterparty": {
-            "name": "ENT_MUSIC_002",
+            "name": "MELON",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -923,12 +923,12 @@
           "dayOfMonth": 24,
           "time": "09:30:21",
           "type": "입금",
-          "amount": 122300,
-          "balanceAfter": 626542,
+          "amount": 200000,
+          "balanceAfter": 1024600,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -941,12 +941,12 @@
           "dayOfMonth": 25,
           "time": "15:20:00",
           "type": "출금",
-          "amount": -3974,
-          "balanceAfter": 622568,
+          "amount": -6500,
+          "balanceAfter": 1018100,
           "description": "카카오톡 선물하기",
           "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "ETC_KAKAO_001",
+            "name": "카카오",
             "bank": "카카오페이",
             "accountNumber": "KAKAOPAY-**-002"
           }
@@ -959,12 +959,12 @@
           "dayOfMonth": 25,
           "time": "14:00:00",
           "type": "출금",
-          "amount": -7338,
-          "balanceAfter": 615230,
+          "amount": -12000,
+          "balanceAfter": 1006100,
           "description": "카카오페이 택시",
           "categoryCode": "TRANSPORT_TAXI_001",
           "counterparty": {
-            "name": "TRANSPORT_TAXI_001",
+            "name": "카카오T",
             "bank": "카카오페이",
             "accountNumber": "KAKAOPAY-**-001"
           }
@@ -977,12 +977,12 @@
           "dayOfMonth": 25,
           "time": "13:00:00",
           "type": "이체",
-          "amount": -30575,
-          "balanceAfter": 584655,
+          "amount": -50000,
+          "balanceAfter": 956100,
           "description": "여행 적립금 이체",
           "categoryCode": "FINANCE_GROUP_001",
           "counterparty": {
-            "name": "FINANCE_GROUP_001",
+            "name": "여행모임 총무 최수진",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-4445556"
           }
@@ -995,12 +995,12 @@
           "dayOfMonth": 26,
           "time": "22:00:00",
           "type": "입금",
-          "amount": 9172,
-          "balanceAfter": 593827,
+          "amount": 15000,
+          "balanceAfter": 971100,
           "description": "친구에게 받음 (택시비 정산)",
           "categoryCode": "TRANSFER_FRIEND_002",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_002",
+            "name": "박지훈",
             "bank": "신한은행",
             "accountNumber": "110-**-666777"
           }
@@ -1013,12 +1013,12 @@
           "dayOfMonth": 27,
           "time": "20:10:00",
           "type": "이체",
-          "amount": -12230,
-          "balanceAfter": 581597,
+          "amount": -20000,
+          "balanceAfter": 951100,
           "description": "동아리 회비 이체",
           "categoryCode": "FINANCE_GROUP_002",
           "counterparty": {
-            "name": "FINANCE_GROUP_002",
+            "name": "동아리회장 정민지",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-9876543"
           }
@@ -1031,12 +1031,12 @@
           "dayOfMonth": 27,
           "time": "10:00:00",
           "type": "이체",
-          "amount": -61150,
-          "balanceAfter": 520447,
+          "amount": -100000,
+          "balanceAfter": 851100,
           "description": "적금 자동이체",
           "categoryCode": "FINANCE_SAVING_001",
           "counterparty": {
-            "name": "FINANCE_SAVING_001",
+            "name": "카카오뱅크 26주적금",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -1049,12 +1049,12 @@
           "dayOfMonth": 29,
           "time": "12:40:00",
           "type": "이체",
-          "amount": -9172,
-          "balanceAfter": 511275,
+          "amount": -15000,
+          "balanceAfter": 836100,
           "description": "친구에게 송금 (영화비)",
           "categoryCode": "TRANSFER_FRIEND_002",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_002",
+            "name": "박지훈",
             "bank": "신한은행",
             "accountNumber": "110-**-666777"
           }
@@ -1067,12 +1067,12 @@
           "dayOfMonth": 29,
           "time": "09:30:21",
           "type": "입금",
-          "amount": 122300,
-          "balanceAfter": 633575,
+          "amount": 200000,
+          "balanceAfter": 1036100,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -1085,12 +1085,12 @@
           "dayOfMonth": 30,
           "time": "22:00:00",
           "type": "입금",
-          "amount": 9172,
-          "balanceAfter": 642747,
+          "amount": 15000,
+          "balanceAfter": 1051100,
           "description": "친구에게 받음 (택시비 정산)",
           "categoryCode": "TRANSFER_FRIEND_002",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_002",
+            "name": "박지훈",
             "bank": "신한은행",
             "accountNumber": "110-**-666777"
           }
@@ -1103,12 +1103,12 @@
           "dayOfMonth": 1,
           "time": "09:30:00",
           "type": "출금",
-          "amount": -5503,
-          "balanceAfter": 637244,
+          "amount": -9000,
+          "balanceAfter": 1042100,
           "description": "카카오뱅크 미니 카드 결제 (편의점)",
           "categoryCode": "F_B_CONVENIENCE_001",
           "counterparty": {
-            "name": "F_B_CONVENIENCE_001",
+            "name": "CU",
             "bank": "국민은행",
             "accountNumber": "012-**-888777"
           }
@@ -1121,12 +1121,12 @@
           "dayOfMonth": 1,
           "time": "21:30:00",
           "type": "출금",
-          "amount": -2017,
-          "balanceAfter": 635226,
+          "amount": -3300,
+          "balanceAfter": 1038800,
           "description": "카카오톡 이모티콘 구매",
           "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "ETC_KAKAO_001",
+            "name": "카카오",
             "bank": "카카오페이",
             "accountNumber": "KAKAOPAY-**-002"
           }
@@ -1139,12 +1139,12 @@
           "dayOfMonth": 1,
           "time": "14:00:00",
           "type": "출금",
-          "amount": -7338,
-          "balanceAfter": 627888,
+          "amount": -12000,
+          "balanceAfter": 1026800,
           "description": "카카오페이 택시",
           "categoryCode": "TRANSPORT_TAXI_001",
           "counterparty": {
-            "name": "TRANSPORT_TAXI_001",
+            "name": "카카오T",
             "bank": "카카오페이",
             "accountNumber": "KAKAOPAY-**-001"
           }
@@ -1157,12 +1157,12 @@
           "dayOfMonth": 3,
           "time": "00:30:00",
           "type": "출금",
-          "amount": -2996,
-          "balanceAfter": 624891,
+          "amount": -4900,
+          "balanceAfter": 1021900,
           "description": "멜론 정기결제",
           "categoryCode": "ENT_MUSIC_002",
           "counterparty": {
-            "name": "ENT_MUSIC_002",
+            "name": "MELON",
             "bank": "비자카드",
             "accountNumber": "VISA-**-001"
           }
@@ -1175,12 +1175,12 @@
           "dayOfMonth": 4,
           "time": "21:30:00",
           "type": "출금",
-          "amount": -2017,
-          "balanceAfter": 622873,
+          "amount": -3300,
+          "balanceAfter": 1018600,
           "description": "카카오톡 이모티콘 구매",
           "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "ETC_KAKAO_001",
+            "name": "카카오",
             "bank": "카카오페이",
             "accountNumber": "KAKAOPAY-**-002"
           }
@@ -1193,12 +1193,12 @@
           "dayOfMonth": 6,
           "time": "10:00:00",
           "type": "이체",
-          "amount": -61150,
-          "balanceAfter": 561723,
+          "amount": -100000,
+          "balanceAfter": 918600,
           "description": "적금 자동이체",
           "categoryCode": "FINANCE_SAVING_001",
           "counterparty": {
-            "name": "FINANCE_SAVING_001",
+            "name": "카카오뱅크 26주적금",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -1211,12 +1211,12 @@
           "dayOfMonth": 7,
           "time": "10:00:00",
           "type": "이체",
-          "amount": -61150,
-          "balanceAfter": 500573,
+          "amount": -100000,
+          "balanceAfter": 818600,
           "description": "적금 자동이체",
           "categoryCode": "FINANCE_SAVING_001",
           "counterparty": {
-            "name": "FINANCE_SAVING_001",
+            "name": "카카오뱅크 26주적금",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -1229,12 +1229,12 @@
           "dayOfMonth": 8,
           "time": "12:40:00",
           "type": "이체",
-          "amount": -9172,
-          "balanceAfter": 491401,
+          "amount": -15000,
+          "balanceAfter": 803600,
           "description": "친구에게 송금 (영화비)",
           "categoryCode": "TRANSFER_FRIEND_002",
           "counterparty": {
-            "name": "TRANSFER_FRIEND_002",
+            "name": "박지훈",
             "bank": "신한은행",
             "accountNumber": "110-**-666777"
           }
@@ -1247,12 +1247,12 @@
           "dayOfMonth": 8,
           "time": "08:00:00",
           "type": "입금",
-          "amount": 30575,
-          "balanceAfter": 521976,
+          "amount": 50000,
+          "balanceAfter": 853600,
           "description": "용돈 입금",
           "categoryCode": "TRANSFER_FAMILY_001",
           "counterparty": {
-            "name": "TRANSFER_FAMILY_001",
+            "name": "홍부모",
             "bank": "농협",
             "accountNumber": "302-**-91"
           }
@@ -1265,12 +1265,12 @@
           "dayOfMonth": 9,
           "time": "09:30:00",
           "type": "출금",
-          "amount": -5503,
-          "balanceAfter": 516472,
+          "amount": -9000,
+          "balanceAfter": 844600,
           "description": "카카오뱅크 미니 카드 결제 (편의점)",
           "categoryCode": "F_B_CONVENIENCE_001",
           "counterparty": {
-            "name": "F_B_CONVENIENCE_001",
+            "name": "CU",
             "bank": "국민은행",
             "accountNumber": "012-**-888777"
           }
@@ -1283,12 +1283,12 @@
           "dayOfMonth": 9,
           "time": "13:00:00",
           "type": "이체",
-          "amount": -30575,
-          "balanceAfter": 485897,
+          "amount": -50000,
+          "balanceAfter": 794600,
           "description": "여행 적립금 이체",
           "categoryCode": "FINANCE_GROUP_001",
           "counterparty": {
-            "name": "FINANCE_GROUP_001",
+            "name": "여행모임 총무 최수진",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-4445556"
           }
@@ -1307,8 +1307,8 @@
       "currency": "KRW",
       "openDate": "2019-01",
       "status": "ACTIVE",
-      "balance": 3132683,
-      "availableBalance": 3102108,
+      "balance": 5122950,
+      "availableBalance": 5072950,
       "transactions": [
         {
           "transactionId": "ANON_3E2320",
@@ -1318,12 +1318,12 @@
           "dayOfMonth": 9,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 764,
-          "balanceAfter": 1957564,
+          "amount": 1250,
+          "balanceAfter": 3201250,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1336,12 +1336,12 @@
           "dayOfMonth": 9,
           "time": "16:00:00",
           "type": "출금",
-          "amount": -73380,
-          "balanceAfter": 1884184,
+          "amount": -120000,
+          "balanceAfter": 3081250,
           "description": "여행 경비 인출",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-001"
           }
@@ -1354,12 +1354,12 @@
           "dayOfMonth": 9,
           "time": "16:00:00",
           "type": "출금",
-          "amount": -73380,
-          "balanceAfter": 1810804,
+          "amount": -120000,
+          "balanceAfter": 2961250,
           "description": "여행 경비 인출",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-001"
           }
@@ -1372,12 +1372,12 @@
           "dayOfMonth": 10,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 856,
-          "balanceAfter": 1811660,
+          "amount": 1400,
+          "balanceAfter": 2962650,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1390,12 +1390,12 @@
           "dayOfMonth": 10,
           "time": "14:30:00",
           "type": "출금",
-          "amount": -48920,
-          "balanceAfter": 1762740,
+          "amount": -80000,
+          "balanceAfter": 2882650,
           "description": "기념일 선물 구매",
           "categoryCode": "SHOPPING_BEAUTY_001",
           "counterparty": {
-            "name": "SHOPPING_BEAUTY_001",
+            "name": "올리브영",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -1408,12 +1408,12 @@
           "dayOfMonth": 11,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 856,
-          "balanceAfter": 1763596,
+          "amount": 1400,
+          "balanceAfter": 2884050,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1426,12 +1426,12 @@
           "dayOfMonth": 12,
           "time": "19:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 1754424,
+          "amount": -15000,
+          "balanceAfter": 2869050,
           "description": "ATM 출금 수수료",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-FEE"
           }
@@ -1444,12 +1444,12 @@
           "dayOfMonth": 13,
           "time": "19:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 1745251,
+          "amount": -15000,
+          "balanceAfter": 2854050,
           "description": "ATM 출금 수수료",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-FEE"
           }
@@ -1462,12 +1462,12 @@
           "dayOfMonth": 13,
           "time": "16:00:00",
           "type": "출금",
-          "amount": -73380,
-          "balanceAfter": 1671871,
+          "amount": -120000,
+          "balanceAfter": 2734050,
           "description": "여행 경비 인출",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-001"
           }
@@ -1480,12 +1480,12 @@
           "dayOfMonth": 15,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 764,
-          "balanceAfter": 1672635,
+          "amount": 1250,
+          "balanceAfter": 2735300,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1498,12 +1498,12 @@
           "dayOfMonth": 17,
           "time": "19:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 1663463,
+          "amount": -15000,
+          "balanceAfter": 2720300,
           "description": "ATM 출금 수수료",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-FEE"
           }
@@ -1516,12 +1516,12 @@
           "dayOfMonth": 18,
           "time": "16:00:00",
           "type": "출금",
-          "amount": -73380,
-          "balanceAfter": 1590083,
+          "amount": -120000,
+          "balanceAfter": 2600300,
           "description": "여행 경비 인출",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-001"
           }
@@ -1534,12 +1534,12 @@
           "dayOfMonth": 19,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 764,
-          "balanceAfter": 1590847,
+          "amount": 1250,
+          "balanceAfter": 2601550,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1552,12 +1552,12 @@
           "dayOfMonth": 20,
           "time": "14:30:00",
           "type": "출금",
-          "amount": -48920,
-          "balanceAfter": 1541927,
+          "amount": -80000,
+          "balanceAfter": 2521550,
           "description": "기념일 선물 구매",
           "categoryCode": "SHOPPING_BEAUTY_001",
           "counterparty": {
-            "name": "SHOPPING_BEAUTY_001",
+            "name": "올리브영",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -1570,12 +1570,12 @@
           "dayOfMonth": 20,
           "time": "09:30:00",
           "type": "입금",
-          "amount": 244600,
-          "balanceAfter": 1786527,
+          "amount": 400000,
+          "balanceAfter": 2921550,
           "description": "비상금 추가 적립",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1588,12 +1588,12 @@
           "dayOfMonth": 20,
           "time": "17:00:00",
           "type": "출금",
-          "amount": -18345,
-          "balanceAfter": 1768182,
+          "amount": -30000,
+          "balanceAfter": 2891550,
           "description": "교재 구매",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "교보문고",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -1606,12 +1606,12 @@
           "dayOfMonth": 21,
           "time": "11:00:00",
           "type": "출금",
-          "amount": -122300,
-          "balanceAfter": 1645882,
+          "amount": -200000,
+          "balanceAfter": 2691550,
           "description": "노트북 부품 구매",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "컴퓨존",
             "bank": "국민은행",
             "accountNumber": "012-**-222333"
           }
@@ -1624,12 +1624,12 @@
           "dayOfMonth": 22,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 764,
-          "balanceAfter": 1646647,
+          "amount": 1250,
+          "balanceAfter": 2692800,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1642,12 +1642,12 @@
           "dayOfMonth": 24,
           "time": "17:00:00",
           "type": "출금",
-          "amount": -18345,
-          "balanceAfter": 1628302,
+          "amount": -30000,
+          "balanceAfter": 2662800,
           "description": "교재 구매",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "교보문고",
             "bank": "신한카드",
             "accountNumber": "SHINHAN-**-002"
           }
@@ -1660,12 +1660,12 @@
           "dayOfMonth": 26,
           "time": "19:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 1619129,
+          "amount": -15000,
+          "balanceAfter": 2647800,
           "description": "ATM 출금 수수료",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-FEE"
           }
@@ -1678,12 +1678,12 @@
           "dayOfMonth": 27,
           "time": "10:30:00",
           "type": "입금",
-          "amount": 305750,
-          "balanceAfter": 1924879,
+          "amount": 500000,
+          "balanceAfter": 3147800,
           "description": "비상금 추가 적립",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1696,12 +1696,12 @@
           "dayOfMonth": 27,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 794,
-          "balanceAfter": 1925674,
+          "amount": 1300,
+          "balanceAfter": 3149100,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1714,12 +1714,12 @@
           "dayOfMonth": 27,
           "time": "19:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 1916502,
+          "amount": -15000,
+          "balanceAfter": 3134100,
           "description": "ATM 출금 수수료",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-FEE"
           }
@@ -1732,12 +1732,12 @@
           "dayOfMonth": 28,
           "time": "09:00:00",
           "type": "입금",
-          "amount": 183450,
-          "balanceAfter": 2099952,
+          "amount": 300000,
+          "balanceAfter": 3434100,
           "description": "비상금 적립 이체",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1750,12 +1750,12 @@
           "dayOfMonth": 29,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 794,
-          "balanceAfter": 2100747,
+          "amount": 1300,
+          "balanceAfter": 3435400,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1768,12 +1768,12 @@
           "dayOfMonth": 30,
           "time": "09:00:00",
           "type": "입금",
-          "amount": 183450,
-          "balanceAfter": 2284197,
+          "amount": 300000,
+          "balanceAfter": 3735400,
           "description": "비상금 적립 이체",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1786,12 +1786,12 @@
           "dayOfMonth": 30,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 794,
-          "balanceAfter": 2284992,
+          "amount": 1300,
+          "balanceAfter": 3736700,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1804,12 +1804,12 @@
           "dayOfMonth": 31,
           "time": "10:30:00",
           "type": "입금",
-          "amount": 305750,
-          "balanceAfter": 2590742,
+          "amount": 500000,
+          "balanceAfter": 4236700,
           "description": "비상금 추가 적립",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1822,12 +1822,12 @@
           "dayOfMonth": 31,
           "time": "10:30:00",
           "type": "입금",
-          "amount": 305750,
-          "balanceAfter": 2896492,
+          "amount": 500000,
+          "balanceAfter": 4736700,
           "description": "비상금 추가 적립",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1840,12 +1840,12 @@
           "dayOfMonth": 1,
           "time": "00:00:00",
           "type": "입금",
-          "amount": 764,
-          "balanceAfter": 2897256,
+          "amount": 1250,
+          "balanceAfter": 4737950,
           "description": "예금 이자 입금",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행",
             "bank": "신한은행",
             "accountNumber": "INTEREST-**-AUTO"
           }
@@ -1858,12 +1858,12 @@
           "dayOfMonth": 1,
           "time": "09:30:00",
           "type": "입금",
-          "amount": 244600,
-          "balanceAfter": 3141856,
+          "amount": 400000,
+          "balanceAfter": 5137950,
           "description": "비상금 추가 적립",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1876,12 +1876,12 @@
           "dayOfMonth": 1,
           "time": "19:00:00",
           "type": "출금",
-          "amount": -9172,
-          "balanceAfter": 3132683,
+          "amount": -15000,
+          "balanceAfter": 5122950,
           "description": "ATM 출금 수수료",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "신한은행 ATM",
             "bank": "신한은행",
             "accountNumber": "ATM-**-FEE"
           }
@@ -1894,12 +1894,12 @@
           "dayOfMonth": 1,
           "time": "11:00:00",
           "type": "출금",
-          "amount": -122300,
-          "balanceAfter": 3010383,
+          "amount": -200000,
+          "balanceAfter": 4922950,
           "description": "노트북 부품 구매",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "컴퓨존",
             "bank": "국민은행",
             "accountNumber": "012-**-222333"
           }
@@ -1912,12 +1912,12 @@
           "dayOfMonth": 3,
           "time": "09:30:00",
           "type": "입금",
-          "amount": 244600,
-          "balanceAfter": 3254983,
+          "amount": 400000,
+          "balanceAfter": 5322950,
           "description": "비상금 추가 적립",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "홍길동(본인)",
             "bank": "테스트은행",
             "accountNumber": "088-**-345678"
           }
@@ -1930,12 +1930,12 @@
           "dayOfMonth": 4,
           "time": "11:00:00",
           "type": "출금",
-          "amount": -122300,
-          "balanceAfter": 3132683,
+          "amount": -200000,
+          "balanceAfter": 5122950,
           "description": "노트북 부품 구매",
           "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
-            "name": "UNCLASSIFIED_OTHER_001",
+            "name": "컴퓨존",
             "bank": "국민은행",
             "accountNumber": "012-**-222333"
           }
