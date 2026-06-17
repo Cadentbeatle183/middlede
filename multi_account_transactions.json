@@ -1,0 +1,1526 @@
+{
+  "accountHolderName": "홍길동",
+  "accounts": [
+    {
+      "bankCode": "088",
+      "bankName": "테스트은행",
+      "branchCode": "0123",
+      "branchName": "테스트지점",
+      "accountNumber": "088-12-345678",
+      "accountHolder": "홍길동",
+      "accountType": "자유입출금예금",
+      "nickname": "생활비 통장",
+      "currency": "KRW",
+      "openDate": "2020-03-15",
+      "status": "ACTIVE",
+      "balance": 1684900,
+      "availableBalance": 1634900,
+      "transactions": [
+        {
+          "transactionId": "TX20260511001",
+          "date": "2026-05-11",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -45000,
+          "balanceAfter": 3955000,
+          "description": "통신비 자동납부 (SKT)",
+          "counterparty": {
+            "name": "SK텔레콤",
+            "bank": "하나은행",
+            "accountNumber": "111-222333-44455"
+          }
+        },
+        {
+          "transactionId": "TX20260511002",
+          "date": "2026-05-11",
+          "time": "08:15:00",
+          "type": "출금",
+          "amount": -1500,
+          "balanceAfter": 3953500,
+          "description": "교통카드 충전",
+          "counterparty": {
+            "name": "티머니",
+            "bank": "선불카드",
+            "accountNumber": "TMONEY-001"
+          }
+        },
+        {
+          "transactionId": "TX20260511003",
+          "date": "2026-05-11",
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -22000,
+          "balanceAfter": 3931500,
+          "description": "배달의민족 결제",
+          "counterparty": {
+            "name": "우아한형제들",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260511004",
+          "date": "2026-05-11",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -45000,
+          "balanceAfter": 3886500,
+          "description": "통신비 자동납부 (SKT)",
+          "counterparty": {
+            "name": "SK텔레콤",
+            "bank": "하나은행",
+            "accountNumber": "111-222333-44455"
+          }
+        },
+        {
+          "transactionId": "TX20260513005",
+          "date": "2026-05-13",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -18000,
+          "balanceAfter": 3868500,
+          "description": "도시가스요금 자동납부",
+          "counterparty": {
+            "name": "서울도시가스",
+            "bank": "국민은행",
+            "accountNumber": "456-78-9012346"
+          }
+        },
+        {
+          "transactionId": "TX20260513006",
+          "date": "2026-05-13",
+          "time": "10:00:00",
+          "type": "출금",
+          "amount": -50000,
+          "balanceAfter": 3818500,
+          "description": "헬스장 정기결제",
+          "counterparty": {
+            "name": "스포애니 강남점",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260514007",
+          "date": "2026-05-14",
+          "time": "00:10:00",
+          "type": "출금",
+          "amount": -10900,
+          "balanceAfter": 3807600,
+          "description": "유튜브 프리미엄 정기결제",
+          "counterparty": {
+            "name": "GOOGLE YOUTUBE",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260514008",
+          "date": "2026-05-14",
+          "time": "09:00:00",
+          "type": "출금",
+          "amount": -550000,
+          "balanceAfter": 3257600,
+          "description": "월세 자동이체",
+          "counterparty": {
+            "name": "임대인 박영희",
+            "bank": "우리은행",
+            "accountNumber": "1002-345-678901"
+          }
+        },
+        {
+          "transactionId": "TX20260514009",
+          "date": "2026-05-14",
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -22000,
+          "balanceAfter": 3235600,
+          "description": "배달의민족 결제",
+          "counterparty": {
+            "name": "우아한형제들",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260515010",
+          "date": "2026-05-15",
+          "time": "18:20:05",
+          "type": "이체",
+          "amount": -30000,
+          "balanceAfter": 3205600,
+          "description": "친구에게 이체",
+          "counterparty": {
+            "name": "김철수",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-01-1234567"
+          }
+        },
+        {
+          "transactionId": "TX20260515011",
+          "date": "2026-05-15",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -18000,
+          "balanceAfter": 3187600,
+          "description": "도시가스요금 자동납부",
+          "counterparty": {
+            "name": "서울도시가스",
+            "bank": "국민은행",
+            "accountNumber": "456-78-9012346"
+          }
+        },
+        {
+          "transactionId": "TX20260515012",
+          "date": "2026-05-15",
+          "time": "18:30:00",
+          "type": "출금",
+          "amount": -42000,
+          "balanceAfter": 3145600,
+          "description": "올리브영",
+          "counterparty": {
+            "name": "CJ올리브영",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260517013",
+          "date": "2026-05-17",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -18000,
+          "balanceAfter": 3127600,
+          "description": "도시가스요금 자동납부",
+          "counterparty": {
+            "name": "서울도시가스",
+            "bank": "국민은행",
+            "accountNumber": "456-78-9012346"
+          }
+        },
+        {
+          "transactionId": "TX20260518014",
+          "date": "2026-05-18",
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -22000,
+          "balanceAfter": 3105600,
+          "description": "배달의민족 결제",
+          "counterparty": {
+            "name": "우아한형제들",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260519015",
+          "date": "2026-05-19",
+          "time": "10:00:00",
+          "type": "출금",
+          "amount": -50000,
+          "balanceAfter": 3055600,
+          "description": "헬스장 정기결제",
+          "counterparty": {
+            "name": "스포애니 강남점",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260520016",
+          "date": "2026-05-20",
+          "time": "00:05:00",
+          "type": "출금",
+          "amount": -14500,
+          "balanceAfter": 3041100,
+          "description": "넷플릭스 정기결제",
+          "counterparty": {
+            "name": "NETFLIX",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260520017",
+          "date": "2026-05-20",
+          "time": "00:15:00",
+          "type": "출금",
+          "amount": -9900,
+          "balanceAfter": 3031200,
+          "description": "왓챠 정기결제",
+          "counterparty": {
+            "name": "WATCHA",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260521018",
+          "date": "2026-05-21",
+          "time": "08:15:00",
+          "type": "출금",
+          "amount": -1500,
+          "balanceAfter": 3029700,
+          "description": "교통카드 충전",
+          "counterparty": {
+            "name": "티머니",
+            "bank": "선불카드",
+            "accountNumber": "TMONEY-001"
+          }
+        },
+        {
+          "transactionId": "TX20260521019",
+          "date": "2026-05-21",
+          "time": "12:30:45",
+          "type": "출금",
+          "amount": -8500,
+          "balanceAfter": 3021200,
+          "description": "스타벅스 강남점",
+          "counterparty": {
+            "name": "스타벅스코리아",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260522020",
+          "date": "2026-05-22",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -45000,
+          "balanceAfter": 2976200,
+          "description": "통신비 자동납부 (SKT)",
+          "counterparty": {
+            "name": "SK텔레콤",
+            "bank": "하나은행",
+            "accountNumber": "111-222333-44455"
+          }
+        },
+        {
+          "transactionId": "TX20260522021",
+          "date": "2026-05-22",
+          "time": "19:00:00",
+          "type": "환불",
+          "amount": 12000,
+          "balanceAfter": 2988200,
+          "description": "스포티파이 구독 취소 부분환불",
+          "counterparty": {
+            "name": "SPOTIFY",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260522022",
+          "date": "2026-05-22",
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -4500,
+          "balanceAfter": 2983700,
+          "description": "스포티파이 정기결제",
+          "counterparty": {
+            "name": "SPOTIFY",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260523023",
+          "date": "2026-05-23",
+          "time": "18:20:05",
+          "type": "이체",
+          "amount": -30000,
+          "balanceAfter": 2953700,
+          "description": "친구에게 이체",
+          "counterparty": {
+            "name": "김철수",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-01-1234567"
+          }
+        },
+        {
+          "transactionId": "TX20260524024",
+          "date": "2026-05-24",
+          "time": "00:10:00",
+          "type": "출금",
+          "amount": -10900,
+          "balanceAfter": 2942800,
+          "description": "유튜브 프리미엄 정기결제",
+          "counterparty": {
+            "name": "GOOGLE YOUTUBE",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260526025",
+          "date": "2026-05-26",
+          "time": "15:00:00",
+          "type": "환불",
+          "amount": 6500,
+          "balanceAfter": 2949300,
+          "description": "왓챠 구독 취소 부분환불",
+          "counterparty": {
+            "name": "WATCHA",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260527026",
+          "date": "2026-05-27",
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -45000,
+          "balanceAfter": 2904300,
+          "description": "통신비 자동납부 (SKT)",
+          "counterparty": {
+            "name": "SK텔레콤",
+            "bank": "하나은행",
+            "accountNumber": "111-222333-44455"
+          }
+        },
+        {
+          "transactionId": "TX20260528027",
+          "date": "2026-05-28",
+          "time": "09:00:00",
+          "type": "출금",
+          "amount": -550000,
+          "balanceAfter": 2354300,
+          "description": "월세 자동이체",
+          "counterparty": {
+            "name": "임대인 박영희",
+            "bank": "우리은행",
+            "accountNumber": "1002-345-678901"
+          }
+        },
+        {
+          "transactionId": "TX20260529028",
+          "date": "2026-05-29",
+          "time": "13:00:00",
+          "type": "출금",
+          "amount": -7200,
+          "balanceAfter": 2347100,
+          "description": "김밥천국",
+          "counterparty": {
+            "name": "김밥천국 역삼점",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260531029",
+          "date": "2026-05-31",
+          "time": "18:20:05",
+          "type": "이체",
+          "amount": -30000,
+          "balanceAfter": 2317100,
+          "description": "친구에게 이체",
+          "counterparty": {
+            "name": "김철수",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-01-1234567"
+          }
+        },
+        {
+          "transactionId": "TX20260601030",
+          "date": "2026-06-01",
+          "time": "10:00:00",
+          "type": "출금",
+          "amount": -50000,
+          "balanceAfter": 2267100,
+          "description": "헬스장 정기결제",
+          "counterparty": {
+            "name": "스포애니 강남점",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260601031",
+          "date": "2026-06-01",
+          "time": "09:00:00",
+          "type": "출금",
+          "amount": -550000,
+          "balanceAfter": 1717100,
+          "description": "월세 자동이체",
+          "counterparty": {
+            "name": "임대인 박영희",
+            "bank": "우리은행",
+            "accountNumber": "1002-345-678901"
+          }
+        },
+        {
+          "transactionId": "TX20260601032",
+          "date": "2026-06-01",
+          "time": "21:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 1702100,
+          "description": "CGV 영화관람",
+          "counterparty": {
+            "name": "CGV 강남",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260601033",
+          "date": "2026-06-01",
+          "time": "13:00:00",
+          "type": "출금",
+          "amount": -7200,
+          "balanceAfter": 1694900,
+          "description": "김밥천국",
+          "counterparty": {
+            "name": "김밥천국 역삼점",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260601034",
+          "date": "2026-06-01",
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -22000,
+          "balanceAfter": 1672900,
+          "description": "배달의민족 결제",
+          "counterparty": {
+            "name": "우아한형제들",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260601035",
+          "date": "2026-06-01",
+          "time": "19:00:00",
+          "type": "환불",
+          "amount": 12000,
+          "balanceAfter": 1684900,
+          "description": "스포티파이 구독 취소 부분환불",
+          "counterparty": {
+            "name": "SPOTIFY",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        }
+      ]
+    },
+    {
+      "bankCode": "090",
+      "bankName": "카카오뱅크",
+      "branchCode": "0000",
+      "branchName": "본점",
+      "accountNumber": "3333-01-1234567",
+      "accountHolder": "홍길동",
+      "accountType": "입출금통장",
+      "nickname": "모임/용돈 통장",
+      "currency": "KRW",
+      "openDate": "2021-07-01",
+      "status": "ACTIVE",
+      "balance": 794600,
+      "availableBalance": 744600,
+      "transactions": [
+        {
+          "transactionId": "TX20260510001",
+          "date": "2026-05-10",
+          "time": "09:30:00",
+          "type": "출금",
+          "amount": -9000,
+          "balanceAfter": 236000,
+          "description": "카카오뱅크 미니 카드 결제 (편의점)",
+          "counterparty": {
+            "name": "CU",
+            "bank": "국민은행",
+            "accountNumber": "012-999-888777"
+          }
+        },
+        {
+          "transactionId": "TX20260512002",
+          "date": "2026-05-12",
+          "time": "15:20:00",
+          "type": "출금",
+          "amount": -6500,
+          "balanceAfter": 229500,
+          "description": "카카오톡 선물하기",
+          "counterparty": {
+            "name": "카카오",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-002"
+          }
+        },
+        {
+          "transactionId": "TX20260513003",
+          "date": "2026-05-13",
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 50000,
+          "balanceAfter": 279500,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260514004",
+          "date": "2026-05-14",
+          "time": "12:40:00",
+          "type": "이체",
+          "amount": -15000,
+          "balanceAfter": 264500,
+          "description": "친구에게 송금 (영화비)",
+          "counterparty": {
+            "name": "박지훈",
+            "bank": "신한은행",
+            "accountNumber": "110-555-666777"
+          }
+        },
+        {
+          "transactionId": "TX20260514005",
+          "date": "2026-05-14",
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 200000,
+          "balanceAfter": 464500,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260515006",
+          "date": "2026-05-15",
+          "time": "19:40:00",
+          "type": "출금",
+          "amount": -25000,
+          "balanceAfter": 439500,
+          "description": "배달의민족 결제",
+          "counterparty": {
+            "name": "우아한형제들",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260517007",
+          "date": "2026-05-17",
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 200000,
+          "balanceAfter": 639500,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260517008",
+          "date": "2026-05-17",
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -100000,
+          "balanceAfter": 539500,
+          "description": "적금 자동이체",
+          "counterparty": {
+            "name": "카카오뱅크 26주적금",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-03-1112223"
+          }
+        },
+        {
+          "transactionId": "TX20260519009",
+          "date": "2026-05-19",
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 50000,
+          "balanceAfter": 589500,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260520010",
+          "date": "2026-05-20",
+          "time": "19:40:00",
+          "type": "출금",
+          "amount": -25000,
+          "balanceAfter": 564500,
+          "description": "배달의민족 결제",
+          "counterparty": {
+            "name": "우아한형제들",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260520011",
+          "date": "2026-05-20",
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 50000,
+          "balanceAfter": 614500,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260521012",
+          "date": "2026-05-21",
+          "time": "22:00:00",
+          "type": "입금",
+          "amount": 15000,
+          "balanceAfter": 629500,
+          "description": "친구에게 받음 (택시비 정산)",
+          "counterparty": {
+            "name": "박지훈",
+            "bank": "신한은행",
+            "accountNumber": "110-555-666777"
+          }
+        },
+        {
+          "transactionId": "TX20260522013",
+          "date": "2026-05-22",
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 200000,
+          "balanceAfter": 829500,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260524014",
+          "date": "2026-05-24",
+          "time": "00:30:00",
+          "type": "출금",
+          "amount": -4900,
+          "balanceAfter": 824600,
+          "description": "멜론 정기결제",
+          "counterparty": {
+            "name": "MELON",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260524015",
+          "date": "2026-05-24",
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 200000,
+          "balanceAfter": 1024600,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260525016",
+          "date": "2026-05-25",
+          "time": "15:20:00",
+          "type": "출금",
+          "amount": -6500,
+          "balanceAfter": 1018100,
+          "description": "카카오톡 선물하기",
+          "counterparty": {
+            "name": "카카오",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-002"
+          }
+        },
+        {
+          "transactionId": "TX20260525017",
+          "date": "2026-05-25",
+          "time": "14:00:00",
+          "type": "출금",
+          "amount": -12000,
+          "balanceAfter": 1006100,
+          "description": "카카오페이 택시",
+          "counterparty": {
+            "name": "카카오T",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-001"
+          }
+        },
+        {
+          "transactionId": "TX20260525018",
+          "date": "2026-05-25",
+          "time": "13:00:00",
+          "type": "이체",
+          "amount": -50000,
+          "balanceAfter": 956100,
+          "description": "여행 적립금 이체",
+          "counterparty": {
+            "name": "여행모임 총무 최수진",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-04-4445556"
+          }
+        },
+        {
+          "transactionId": "TX20260526019",
+          "date": "2026-05-26",
+          "time": "22:00:00",
+          "type": "입금",
+          "amount": 15000,
+          "balanceAfter": 971100,
+          "description": "친구에게 받음 (택시비 정산)",
+          "counterparty": {
+            "name": "박지훈",
+            "bank": "신한은행",
+            "accountNumber": "110-555-666777"
+          }
+        },
+        {
+          "transactionId": "TX20260527020",
+          "date": "2026-05-27",
+          "time": "20:10:00",
+          "type": "이체",
+          "amount": -20000,
+          "balanceAfter": 951100,
+          "description": "동아리 회비 이체",
+          "counterparty": {
+            "name": "동아리회장 정민지",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-02-9876543"
+          }
+        },
+        {
+          "transactionId": "TX20260527021",
+          "date": "2026-05-27",
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -100000,
+          "balanceAfter": 851100,
+          "description": "적금 자동이체",
+          "counterparty": {
+            "name": "카카오뱅크 26주적금",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-03-1112223"
+          }
+        },
+        {
+          "transactionId": "TX20260529022",
+          "date": "2026-05-29",
+          "time": "12:40:00",
+          "type": "이체",
+          "amount": -15000,
+          "balanceAfter": 836100,
+          "description": "친구에게 송금 (영화비)",
+          "counterparty": {
+            "name": "박지훈",
+            "bank": "신한은행",
+            "accountNumber": "110-555-666777"
+          }
+        },
+        {
+          "transactionId": "TX20260529023",
+          "date": "2026-05-29",
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 200000,
+          "balanceAfter": 1036100,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260530024",
+          "date": "2026-05-30",
+          "time": "22:00:00",
+          "type": "입금",
+          "amount": 15000,
+          "balanceAfter": 1051100,
+          "description": "친구에게 받음 (택시비 정산)",
+          "counterparty": {
+            "name": "박지훈",
+            "bank": "신한은행",
+            "accountNumber": "110-555-666777"
+          }
+        },
+        {
+          "transactionId": "TX20260601025",
+          "date": "2026-06-01",
+          "time": "09:30:00",
+          "type": "출금",
+          "amount": -9000,
+          "balanceAfter": 1042100,
+          "description": "카카오뱅크 미니 카드 결제 (편의점)",
+          "counterparty": {
+            "name": "CU",
+            "bank": "국민은행",
+            "accountNumber": "012-999-888777"
+          }
+        },
+        {
+          "transactionId": "TX20260601026",
+          "date": "2026-06-01",
+          "time": "21:30:00",
+          "type": "출금",
+          "amount": -3300,
+          "balanceAfter": 1038800,
+          "description": "카카오톡 이모티콘 구매",
+          "counterparty": {
+            "name": "카카오",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-002"
+          }
+        },
+        {
+          "transactionId": "TX20260601027",
+          "date": "2026-06-01",
+          "time": "14:00:00",
+          "type": "출금",
+          "amount": -12000,
+          "balanceAfter": 1026800,
+          "description": "카카오페이 택시",
+          "counterparty": {
+            "name": "카카오T",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-001"
+          }
+        },
+        {
+          "transactionId": "TX20260603028",
+          "date": "2026-06-03",
+          "time": "00:30:00",
+          "type": "출금",
+          "amount": -4900,
+          "balanceAfter": 1021900,
+          "description": "멜론 정기결제",
+          "counterparty": {
+            "name": "MELON",
+            "bank": "비자카드",
+            "accountNumber": "VISA-CARD-001"
+          }
+        },
+        {
+          "transactionId": "TX20260604029",
+          "date": "2026-06-04",
+          "time": "21:30:00",
+          "type": "출금",
+          "amount": -3300,
+          "balanceAfter": 1018600,
+          "description": "카카오톡 이모티콘 구매",
+          "counterparty": {
+            "name": "카카오",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-002"
+          }
+        },
+        {
+          "transactionId": "TX20260606030",
+          "date": "2026-06-06",
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -100000,
+          "balanceAfter": 918600,
+          "description": "적금 자동이체",
+          "counterparty": {
+            "name": "카카오뱅크 26주적금",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-03-1112223"
+          }
+        },
+        {
+          "transactionId": "TX20260607031",
+          "date": "2026-06-07",
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -100000,
+          "balanceAfter": 818600,
+          "description": "적금 자동이체",
+          "counterparty": {
+            "name": "카카오뱅크 26주적금",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-03-1112223"
+          }
+        },
+        {
+          "transactionId": "TX20260608032",
+          "date": "2026-06-08",
+          "time": "12:40:00",
+          "type": "이체",
+          "amount": -15000,
+          "balanceAfter": 803600,
+          "description": "친구에게 송금 (영화비)",
+          "counterparty": {
+            "name": "박지훈",
+            "bank": "신한은행",
+            "accountNumber": "110-555-666777"
+          }
+        },
+        {
+          "transactionId": "TX20260608033",
+          "date": "2026-06-08",
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 50000,
+          "balanceAfter": 853600,
+          "description": "용돈 입금",
+          "counterparty": {
+            "name": "홍부모",
+            "bank": "농협",
+            "accountNumber": "302-1234-5678-91"
+          }
+        },
+        {
+          "transactionId": "TX20260609034",
+          "date": "2026-06-09",
+          "time": "09:30:00",
+          "type": "출금",
+          "amount": -9000,
+          "balanceAfter": 844600,
+          "description": "카카오뱅크 미니 카드 결제 (편의점)",
+          "counterparty": {
+            "name": "CU",
+            "bank": "국민은행",
+            "accountNumber": "012-999-888777"
+          }
+        },
+        {
+          "transactionId": "TX20260609035",
+          "date": "2026-06-09",
+          "time": "13:00:00",
+          "type": "이체",
+          "amount": -50000,
+          "balanceAfter": 794600,
+          "description": "여행 적립금 이체",
+          "counterparty": {
+            "name": "여행모임 총무 최수진",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-04-4445556"
+          }
+        }
+      ]
+    },
+    {
+      "bankCode": "048",
+      "bankName": "신한은행",
+      "branchCode": "0456",
+      "branchName": "역삼지점",
+      "accountNumber": "110-987-654321",
+      "accountHolder": "홍길동",
+      "accountType": "정기예금연계 입출금통장",
+      "nickname": "비상금 통장",
+      "currency": "KRW",
+      "openDate": "2019-01-10",
+      "status": "ACTIVE",
+      "balance": 5122950,
+      "availableBalance": 5072950,
+      "transactions": [
+        {
+          "transactionId": "TX20260509001",
+          "date": "2026-05-09",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1250,
+          "balanceAfter": 3201250,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260509002",
+          "date": "2026-05-09",
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -120000,
+          "balanceAfter": 3081250,
+          "description": "여행 경비 인출",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-001"
+          }
+        },
+        {
+          "transactionId": "TX20260509003",
+          "date": "2026-05-09",
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -120000,
+          "balanceAfter": 2961250,
+          "description": "여행 경비 인출",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-001"
+          }
+        },
+        {
+          "transactionId": "TX20260510004",
+          "date": "2026-05-10",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1400,
+          "balanceAfter": 2962650,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260510005",
+          "date": "2026-05-10",
+          "time": "14:30:00",
+          "type": "출금",
+          "amount": -80000,
+          "balanceAfter": 2882650,
+          "description": "기념일 선물 구매",
+          "counterparty": {
+            "name": "올리브영",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260511006",
+          "date": "2026-05-11",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1400,
+          "balanceAfter": 2884050,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260512007",
+          "date": "2026-05-12",
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 2869050,
+          "description": "ATM 출금 수수료",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-FEE"
+          }
+        },
+        {
+          "transactionId": "TX20260513008",
+          "date": "2026-05-13",
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 2854050,
+          "description": "ATM 출금 수수료",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-FEE"
+          }
+        },
+        {
+          "transactionId": "TX20260513009",
+          "date": "2026-05-13",
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -120000,
+          "balanceAfter": 2734050,
+          "description": "여행 경비 인출",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-001"
+          }
+        },
+        {
+          "transactionId": "TX20260515010",
+          "date": "2026-05-15",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1250,
+          "balanceAfter": 2735300,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260517011",
+          "date": "2026-05-17",
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 2720300,
+          "description": "ATM 출금 수수료",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-FEE"
+          }
+        },
+        {
+          "transactionId": "TX20260518012",
+          "date": "2026-05-18",
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -120000,
+          "balanceAfter": 2600300,
+          "description": "여행 경비 인출",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-001"
+          }
+        },
+        {
+          "transactionId": "TX20260519013",
+          "date": "2026-05-19",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1250,
+          "balanceAfter": 2601550,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260520014",
+          "date": "2026-05-20",
+          "time": "14:30:00",
+          "type": "출금",
+          "amount": -80000,
+          "balanceAfter": 2521550,
+          "description": "기념일 선물 구매",
+          "counterparty": {
+            "name": "올리브영",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260520015",
+          "date": "2026-05-20",
+          "time": "09:30:00",
+          "type": "입금",
+          "amount": 400000,
+          "balanceAfter": 2921550,
+          "description": "비상금 추가 적립",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260520016",
+          "date": "2026-05-20",
+          "time": "17:00:00",
+          "type": "출금",
+          "amount": -30000,
+          "balanceAfter": 2891550,
+          "description": "교재 구매",
+          "counterparty": {
+            "name": "교보문고",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260521017",
+          "date": "2026-05-21",
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -200000,
+          "balanceAfter": 2691550,
+          "description": "노트북 부품 구매",
+          "counterparty": {
+            "name": "컴퓨존",
+            "bank": "국민은행",
+            "accountNumber": "012-111-222333"
+          }
+        },
+        {
+          "transactionId": "TX20260522018",
+          "date": "2026-05-22",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1250,
+          "balanceAfter": 2692800,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260524019",
+          "date": "2026-05-24",
+          "time": "17:00:00",
+          "type": "출금",
+          "amount": -30000,
+          "balanceAfter": 2662800,
+          "description": "교재 구매",
+          "counterparty": {
+            "name": "교보문고",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-CARD-002"
+          }
+        },
+        {
+          "transactionId": "TX20260526020",
+          "date": "2026-05-26",
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 2647800,
+          "description": "ATM 출금 수수료",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-FEE"
+          }
+        },
+        {
+          "transactionId": "TX20260527021",
+          "date": "2026-05-27",
+          "time": "10:30:00",
+          "type": "입금",
+          "amount": 500000,
+          "balanceAfter": 3147800,
+          "description": "비상금 추가 적립",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260527022",
+          "date": "2026-05-27",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1300,
+          "balanceAfter": 3149100,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260527023",
+          "date": "2026-05-27",
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 3134100,
+          "description": "ATM 출금 수수료",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-FEE"
+          }
+        },
+        {
+          "transactionId": "TX20260528024",
+          "date": "2026-05-28",
+          "time": "09:00:00",
+          "type": "입금",
+          "amount": 300000,
+          "balanceAfter": 3434100,
+          "description": "비상금 적립 이체",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260529025",
+          "date": "2026-05-29",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1300,
+          "balanceAfter": 3435400,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260530026",
+          "date": "2026-05-30",
+          "time": "09:00:00",
+          "type": "입금",
+          "amount": 300000,
+          "balanceAfter": 3735400,
+          "description": "비상금 적립 이체",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260530027",
+          "date": "2026-05-30",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1300,
+          "balanceAfter": 3736700,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260531028",
+          "date": "2026-05-31",
+          "time": "10:30:00",
+          "type": "입금",
+          "amount": 500000,
+          "balanceAfter": 4236700,
+          "description": "비상금 추가 적립",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260531029",
+          "date": "2026-05-31",
+          "time": "10:30:00",
+          "type": "입금",
+          "amount": 500000,
+          "balanceAfter": 4736700,
+          "description": "비상금 추가 적립",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260601030",
+          "date": "2026-06-01",
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 1250,
+          "balanceAfter": 4737950,
+          "description": "예금 이자 입금",
+          "counterparty": {
+            "name": "신한은행",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-AUTO"
+          }
+        },
+        {
+          "transactionId": "TX20260601031",
+          "date": "2026-06-01",
+          "time": "09:30:00",
+          "type": "입금",
+          "amount": 400000,
+          "balanceAfter": 5137950,
+          "description": "비상금 추가 적립",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260601032",
+          "date": "2026-06-01",
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -15000,
+          "balanceAfter": 5122950,
+          "description": "ATM 출금 수수료",
+          "counterparty": {
+            "name": "신한은행 ATM",
+            "bank": "신한은행",
+            "accountNumber": "ATM-FEE"
+          }
+        },
+        {
+          "transactionId": "TX20260601033",
+          "date": "2026-06-01",
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -200000,
+          "balanceAfter": 4922950,
+          "description": "노트북 부품 구매",
+          "counterparty": {
+            "name": "컴퓨존",
+            "bank": "국민은행",
+            "accountNumber": "012-111-222333"
+          }
+        },
+        {
+          "transactionId": "TX20260603034",
+          "date": "2026-06-03",
+          "time": "09:30:00",
+          "type": "입금",
+          "amount": 400000,
+          "balanceAfter": 5322950,
+          "description": "비상금 추가 적립",
+          "counterparty": {
+            "name": "홍길동(본인)",
+            "bank": "테스트은행",
+            "accountNumber": "088-12-345678"
+          }
+        },
+        {
+          "transactionId": "TX20260604035",
+          "date": "2026-06-04",
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -200000,
+          "balanceAfter": 5122950,
+          "description": "노트북 부품 구매",
+          "counterparty": {
+            "name": "컴퓨존",
+            "bank": "국민은행",
+            "accountNumber": "012-111-222333"
+          }
+        }
+      ]
+    }
+  ]
+}

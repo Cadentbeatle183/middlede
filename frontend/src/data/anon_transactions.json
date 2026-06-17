@@ -1,0 +1,1946 @@
+{
+  "accountHolderName": "P_6C3B4F",
+  "accounts": [
+    {
+      "bankCode": "088",
+      "bankName": "테스트은행",
+      "branchCode": "***",
+      "branchName": "***",
+      "accountNumber": "088-**-345678",
+      "accountHolder": "P_6C3B4F",
+      "accountType": "자유입출금예금",
+      "nickname": "계좌_ACCT_8F2A18",
+      "currency": "KRW",
+      "openDate": "2020-03",
+      "status": "ACTIVE",
+      "balance": 1030316,
+      "availableBalance": 999741,
+      "transactions": [
+        {
+          "transactionId": "ANON_E43F3C",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 11,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -27517,
+          "balanceAfter": 2418482,
+          "description": "통신비 자동납부 (SKT)",
+          "categoryCode": "TELECOM_MOBILE_001",
+          "counterparty": {
+            "name": "TELECOM_MOBILE_001",
+            "bank": "하나은행",
+            "accountNumber": "111-**-44455"
+          }
+        },
+        {
+          "transactionId": "ANON_3A35D8",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 11,
+          "time": "08:15:00",
+          "type": "출금",
+          "amount": -917,
+          "balanceAfter": 2417565,
+          "description": "교통카드 충전",
+          "categoryCode": "TRANSPORT_CHARGE_001",
+          "counterparty": {
+            "name": "TRANSPORT_CHARGE_001",
+            "bank": "선불카드",
+            "accountNumber": "TMONEY-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_5B526F",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 11,
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -13453,
+          "balanceAfter": 2404112,
+          "description": "배달의민족 결제",
+          "categoryCode": "F&B_DELIVERY_001",
+          "counterparty": {
+            "name": "F&B_DELIVERY_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_017452",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 11,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -27517,
+          "balanceAfter": 2376594,
+          "description": "통신비 자동납부 (SKT)",
+          "categoryCode": "TELECOM_MOBILE_001",
+          "counterparty": {
+            "name": "TELECOM_MOBILE_001",
+            "bank": "하나은행",
+            "accountNumber": "111-**-44455"
+          }
+        },
+        {
+          "transactionId": "ANON_FF0C9B",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 13,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -11007,
+          "balanceAfter": 2365587,
+          "description": "도시가스요금 자동납부",
+          "categoryCode": "UTILITY_GAS_001",
+          "counterparty": {
+            "name": "UTILITY_GAS_001",
+            "bank": "국민은행",
+            "accountNumber": "456-**-9012346"
+          }
+        },
+        {
+          "transactionId": "ANON_080EF1",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 13,
+          "time": "10:00:00",
+          "type": "출금",
+          "amount": -30575,
+          "balanceAfter": 2335012,
+          "description": "헬스장 정기결제",
+          "categoryCode": "FIT_GYM_001",
+          "counterparty": {
+            "name": "FIT_GYM_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_9D4EC5",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 14,
+          "time": "00:10:00",
+          "type": "출금",
+          "amount": -6665,
+          "balanceAfter": 2328347,
+          "description": "유튜브 프리미엄 정기결제",
+          "categoryCode": "ENT_OTT_STREAMING_002",
+          "counterparty": {
+            "name": "ENT_OTT_STREAMING_002",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_ADCDE2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 14,
+          "time": "09:00:00",
+          "type": "출금",
+          "amount": -336325,
+          "balanceAfter": 1992022,
+          "description": "월세 자동이체",
+          "categoryCode": "HOUSING_RENT_001",
+          "counterparty": {
+            "name": "HOUSING_RENT_001",
+            "bank": "우리은행",
+            "accountNumber": "1002-**-678901"
+          }
+        },
+        {
+          "transactionId": "ANON_6DAD78",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 14,
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -13453,
+          "balanceAfter": 1978569,
+          "description": "배달의민족 결제",
+          "categoryCode": "F&B_DELIVERY_001",
+          "counterparty": {
+            "name": "F&B_DELIVERY_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_66434F",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 15,
+          "time": "18:20:05",
+          "type": "이체",
+          "amount": -18345,
+          "balanceAfter": 1960224,
+          "description": "친구에게 이체",
+          "categoryCode": "TRANSFER_FRIEND_001",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1234567"
+          }
+        },
+        {
+          "transactionId": "ANON_C43BFA",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 15,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -11007,
+          "balanceAfter": 1949217,
+          "description": "도시가스요금 자동납부",
+          "categoryCode": "UTILITY_GAS_001",
+          "counterparty": {
+            "name": "UTILITY_GAS_001",
+            "bank": "국민은행",
+            "accountNumber": "456-**-9012346"
+          }
+        },
+        {
+          "transactionId": "ANON_9E4E58",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 15,
+          "time": "18:30:00",
+          "type": "출금",
+          "amount": -25683,
+          "balanceAfter": 1923534,
+          "description": "올리브영",
+          "categoryCode": "SHOPPING_BEAUTY_001",
+          "counterparty": {
+            "name": "SHOPPING_BEAUTY_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_453DB4",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 17,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -11007,
+          "balanceAfter": 1912527,
+          "description": "도시가스요금 자동납부",
+          "categoryCode": "UTILITY_GAS_001",
+          "counterparty": {
+            "name": "UTILITY_GAS_001",
+            "bank": "국민은행",
+            "accountNumber": "456-**-9012346"
+          }
+        },
+        {
+          "transactionId": "ANON_2FE7D5",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 18,
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -13453,
+          "balanceAfter": 1899074,
+          "description": "배달의민족 결제",
+          "categoryCode": "F&B_DELIVERY_001",
+          "counterparty": {
+            "name": "F&B_DELIVERY_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_0A7367",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 19,
+          "time": "10:00:00",
+          "type": "출금",
+          "amount": -30575,
+          "balanceAfter": 1868499,
+          "description": "헬스장 정기결제",
+          "categoryCode": "FIT_GYM_001",
+          "counterparty": {
+            "name": "FIT_GYM_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_E91C67",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "00:05:00",
+          "type": "출금",
+          "amount": -8866,
+          "balanceAfter": 1859632,
+          "description": "넷플릭스 정기결제",
+          "categoryCode": "ENT_OTT_STREAMING_001",
+          "counterparty": {
+            "name": "ENT_OTT_STREAMING_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_0C6BE8",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "00:15:00",
+          "type": "출금",
+          "amount": -6053,
+          "balanceAfter": 1853578,
+          "description": "왓챠 정기결제",
+          "categoryCode": "ENT_OTT_STREAMING_003",
+          "counterparty": {
+            "name": "ENT_OTT_STREAMING_003",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_363359",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 21,
+          "time": "08:15:00",
+          "type": "출금",
+          "amount": -917,
+          "balanceAfter": 1852661,
+          "description": "교통카드 충전",
+          "categoryCode": "TRANSPORT_CHARGE_001",
+          "counterparty": {
+            "name": "TRANSPORT_CHARGE_001",
+            "bank": "선불카드",
+            "accountNumber": "TMONEY-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_8E5212",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 21,
+          "time": "12:30:45",
+          "type": "출금",
+          "amount": -5197,
+          "balanceAfter": 1847463,
+          "description": "스타벅스 강남점",
+          "categoryCode": "F&B_CAFE_001",
+          "counterparty": {
+            "name": "F&B_CAFE_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_ECD0D1",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 22,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -27517,
+          "balanceAfter": 1819946,
+          "description": "통신비 자동납부 (SKT)",
+          "categoryCode": "TELECOM_MOBILE_001",
+          "counterparty": {
+            "name": "TELECOM_MOBILE_001",
+            "bank": "하나은행",
+            "accountNumber": "111-**-44455"
+          }
+        },
+        {
+          "transactionId": "ANON_0E287C",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 22,
+          "time": "19:00:00",
+          "type": "환불",
+          "amount": 7338,
+          "balanceAfter": 1827284,
+          "description": "스포티파이 구독 취소 부분환불",
+          "categoryCode": "ENT_MUSIC_001",
+          "counterparty": {
+            "name": "ENT_MUSIC_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_F957CD",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 22,
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -2751,
+          "balanceAfter": 1824532,
+          "description": "스포티파이 정기결제",
+          "categoryCode": "ENT_MUSIC_001",
+          "counterparty": {
+            "name": "ENT_MUSIC_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_77C879",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 23,
+          "time": "18:20:05",
+          "type": "이체",
+          "amount": -18345,
+          "balanceAfter": 1806187,
+          "description": "친구에게 이체",
+          "categoryCode": "TRANSFER_FRIEND_001",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1234567"
+          }
+        },
+        {
+          "transactionId": "ANON_D0EFBB",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 24,
+          "time": "00:10:00",
+          "type": "출금",
+          "amount": -6665,
+          "balanceAfter": 1799522,
+          "description": "유튜브 프리미엄 정기결제",
+          "categoryCode": "ENT_OTT_STREAMING_002",
+          "counterparty": {
+            "name": "ENT_OTT_STREAMING_002",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_6D0610",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 26,
+          "time": "15:00:00",
+          "type": "환불",
+          "amount": 3974,
+          "balanceAfter": 1803496,
+          "description": "왓챠 구독 취소 부분환불",
+          "categoryCode": "ENT_OTT_STREAMING_003",
+          "counterparty": {
+            "name": "ENT_OTT_STREAMING_003",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_77FB02",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 27,
+          "time": "09:05:00",
+          "type": "출금",
+          "amount": -27517,
+          "balanceAfter": 1775979,
+          "description": "통신비 자동납부 (SKT)",
+          "categoryCode": "TELECOM_MOBILE_001",
+          "counterparty": {
+            "name": "TELECOM_MOBILE_001",
+            "bank": "하나은행",
+            "accountNumber": "111-**-44455"
+          }
+        },
+        {
+          "transactionId": "ANON_6CD222",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 28,
+          "time": "09:00:00",
+          "type": "출금",
+          "amount": -336325,
+          "balanceAfter": 1439654,
+          "description": "월세 자동이체",
+          "categoryCode": "HOUSING_RENT_001",
+          "counterparty": {
+            "name": "HOUSING_RENT_001",
+            "bank": "우리은행",
+            "accountNumber": "1002-**-678901"
+          }
+        },
+        {
+          "transactionId": "ANON_144A33",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 29,
+          "time": "13:00:00",
+          "type": "출금",
+          "amount": -4402,
+          "balanceAfter": 1435251,
+          "description": "김밥천국",
+          "categoryCode": "F&B_KOREAN_001",
+          "counterparty": {
+            "name": "F&B_KOREAN_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_B476C4",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 31,
+          "time": "18:20:05",
+          "type": "이체",
+          "amount": -18345,
+          "balanceAfter": 1416906,
+          "description": "친구에게 이체",
+          "categoryCode": "TRANSFER_FRIEND_001",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1234567"
+          }
+        },
+        {
+          "transactionId": "ANON_1CD1B3",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "10:00:00",
+          "type": "출금",
+          "amount": -30575,
+          "balanceAfter": 1386331,
+          "description": "헬스장 정기결제",
+          "categoryCode": "FIT_GYM_001",
+          "counterparty": {
+            "name": "FIT_GYM_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_1E5AF8",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "09:00:00",
+          "type": "출금",
+          "amount": -336325,
+          "balanceAfter": 1050006,
+          "description": "월세 자동이체",
+          "categoryCode": "HOUSING_RENT_001",
+          "counterparty": {
+            "name": "HOUSING_RENT_001",
+            "bank": "우리은행",
+            "accountNumber": "1002-**-678901"
+          }
+        },
+        {
+          "transactionId": "ANON_D5C97C",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "21:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 1040834,
+          "description": "CGV 영화관람",
+          "categoryCode": "ENT_CINEMA_001",
+          "counterparty": {
+            "name": "ENT_CINEMA_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_11A815",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "13:00:00",
+          "type": "출금",
+          "amount": -4402,
+          "balanceAfter": 1036431,
+          "description": "김밥천국",
+          "categoryCode": "F&B_KOREAN_001",
+          "counterparty": {
+            "name": "F&B_KOREAN_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_07C995",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "19:20:10",
+          "type": "출금",
+          "amount": -13453,
+          "balanceAfter": 1022978,
+          "description": "배달의민족 결제",
+          "categoryCode": "F&B_DELIVERY_001",
+          "counterparty": {
+            "name": "F&B_DELIVERY_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_13B66C",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "19:00:00",
+          "type": "환불",
+          "amount": 7338,
+          "balanceAfter": 1030316,
+          "description": "스포티파이 구독 취소 부분환불",
+          "categoryCode": "ENT_MUSIC_001",
+          "counterparty": {
+            "name": "ENT_MUSIC_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        }
+      ]
+    },
+    {
+      "bankCode": "090",
+      "bankName": "카카오뱅크",
+      "branchCode": "***",
+      "branchName": "***",
+      "accountNumber": "3333-**-1234567",
+      "accountHolder": "P_6C3B4F",
+      "accountType": "입출금통장",
+      "nickname": "계좌_ACCT_BDB194",
+      "currency": "KRW",
+      "openDate": "2021-07",
+      "status": "ACTIVE",
+      "balance": 485897,
+      "availableBalance": 455322,
+      "transactions": [
+        {
+          "transactionId": "ANON_119A6D",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 10,
+          "time": "09:30:00",
+          "type": "출금",
+          "amount": -5503,
+          "balanceAfter": 144314,
+          "description": "카카오뱅크 미니 카드 결제 (편의점)",
+          "categoryCode": "F_B_CONVENIENCE_001",
+          "counterparty": {
+            "name": "F_B_CONVENIENCE_001",
+            "bank": "국민은행",
+            "accountNumber": "012-**-888777"
+          }
+        },
+        {
+          "transactionId": "ANON_2CDBE1",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 12,
+          "time": "15:20:00",
+          "type": "출금",
+          "amount": -3974,
+          "balanceAfter": 140339,
+          "description": "카카오톡 선물하기",
+          "categoryCode": "ETC_KAKAO_001",
+          "counterparty": {
+            "name": "ETC_KAKAO_001",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_6F31E1",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 13,
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 30575,
+          "balanceAfter": 170914,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_FC9BA2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 14,
+          "time": "12:40:00",
+          "type": "이체",
+          "amount": -9172,
+          "balanceAfter": 161741,
+          "description": "친구에게 송금 (영화비)",
+          "categoryCode": "TRANSFER_FRIEND_002",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_002",
+            "bank": "신한은행",
+            "accountNumber": "110-**-666777"
+          }
+        },
+        {
+          "transactionId": "ANON_79531E",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 14,
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 122300,
+          "balanceAfter": 284041,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_A0A7F2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 15,
+          "time": "19:40:00",
+          "type": "출금",
+          "amount": -15287,
+          "balanceAfter": 268754,
+          "description": "배달의민족 결제",
+          "categoryCode": "F&B_DELIVERY_001",
+          "counterparty": {
+            "name": "F&B_DELIVERY_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_3B0851",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 17,
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 122300,
+          "balanceAfter": 391054,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_428AA1",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 17,
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -61150,
+          "balanceAfter": 329904,
+          "description": "적금 자동이체",
+          "categoryCode": "FINANCE_SAVING_001",
+          "counterparty": {
+            "name": "FINANCE_SAVING_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1112223"
+          }
+        },
+        {
+          "transactionId": "ANON_CD70F8",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 19,
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 30575,
+          "balanceAfter": 360479,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_F0408C",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "19:40:00",
+          "type": "출금",
+          "amount": -15287,
+          "balanceAfter": 345191,
+          "description": "배달의민족 결제",
+          "categoryCode": "F&B_DELIVERY_001",
+          "counterparty": {
+            "name": "F&B_DELIVERY_001",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_F1327C",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 30575,
+          "balanceAfter": 375766,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_5A83D2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 21,
+          "time": "22:00:00",
+          "type": "입금",
+          "amount": 9172,
+          "balanceAfter": 384939,
+          "description": "친구에게 받음 (택시비 정산)",
+          "categoryCode": "TRANSFER_FRIEND_002",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_002",
+            "bank": "신한은행",
+            "accountNumber": "110-**-666777"
+          }
+        },
+        {
+          "transactionId": "ANON_DCB80B",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 22,
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 122300,
+          "balanceAfter": 507239,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_146B2B",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 24,
+          "time": "00:30:00",
+          "type": "출금",
+          "amount": -2996,
+          "balanceAfter": 504242,
+          "description": "멜론 정기결제",
+          "categoryCode": "ENT_MUSIC_002",
+          "counterparty": {
+            "name": "ENT_MUSIC_002",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_192230",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 24,
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 122300,
+          "balanceAfter": 626542,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_1DBF33",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 25,
+          "time": "15:20:00",
+          "type": "출금",
+          "amount": -3974,
+          "balanceAfter": 622568,
+          "description": "카카오톡 선물하기",
+          "categoryCode": "ETC_KAKAO_001",
+          "counterparty": {
+            "name": "ETC_KAKAO_001",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_18DC76",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 25,
+          "time": "14:00:00",
+          "type": "출금",
+          "amount": -7338,
+          "balanceAfter": 615230,
+          "description": "카카오페이 택시",
+          "categoryCode": "TRANSPORT_TAXI_001",
+          "counterparty": {
+            "name": "TRANSPORT_TAXI_001",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_CAA25B",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 25,
+          "time": "13:00:00",
+          "type": "이체",
+          "amount": -30575,
+          "balanceAfter": 584655,
+          "description": "여행 적립금 이체",
+          "categoryCode": "FINANCE_GROUP_001",
+          "counterparty": {
+            "name": "FINANCE_GROUP_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-4445556"
+          }
+        },
+        {
+          "transactionId": "ANON_644094",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 26,
+          "time": "22:00:00",
+          "type": "입금",
+          "amount": 9172,
+          "balanceAfter": 593827,
+          "description": "친구에게 받음 (택시비 정산)",
+          "categoryCode": "TRANSFER_FRIEND_002",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_002",
+            "bank": "신한은행",
+            "accountNumber": "110-**-666777"
+          }
+        },
+        {
+          "transactionId": "ANON_5317AD",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 27,
+          "time": "20:10:00",
+          "type": "이체",
+          "amount": -12230,
+          "balanceAfter": 581597,
+          "description": "동아리 회비 이체",
+          "categoryCode": "FINANCE_GROUP_002",
+          "counterparty": {
+            "name": "FINANCE_GROUP_002",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-9876543"
+          }
+        },
+        {
+          "transactionId": "ANON_10EED8",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 27,
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -61150,
+          "balanceAfter": 520447,
+          "description": "적금 자동이체",
+          "categoryCode": "FINANCE_SAVING_001",
+          "counterparty": {
+            "name": "FINANCE_SAVING_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1112223"
+          }
+        },
+        {
+          "transactionId": "ANON_BE5F95",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 29,
+          "time": "12:40:00",
+          "type": "이체",
+          "amount": -9172,
+          "balanceAfter": 511275,
+          "description": "친구에게 송금 (영화비)",
+          "categoryCode": "TRANSFER_FRIEND_002",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_002",
+            "bank": "신한은행",
+            "accountNumber": "110-**-666777"
+          }
+        },
+        {
+          "transactionId": "ANON_36EDE4",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 29,
+          "time": "09:30:21",
+          "type": "입금",
+          "amount": 122300,
+          "balanceAfter": 633575,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_8959FF",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 30,
+          "time": "22:00:00",
+          "type": "입금",
+          "amount": 9172,
+          "balanceAfter": 642747,
+          "description": "친구에게 받음 (택시비 정산)",
+          "categoryCode": "TRANSFER_FRIEND_002",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_002",
+            "bank": "신한은행",
+            "accountNumber": "110-**-666777"
+          }
+        },
+        {
+          "transactionId": "ANON_155E60",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "09:30:00",
+          "type": "출금",
+          "amount": -5503,
+          "balanceAfter": 637244,
+          "description": "카카오뱅크 미니 카드 결제 (편의점)",
+          "categoryCode": "F_B_CONVENIENCE_001",
+          "counterparty": {
+            "name": "F_B_CONVENIENCE_001",
+            "bank": "국민은행",
+            "accountNumber": "012-**-888777"
+          }
+        },
+        {
+          "transactionId": "ANON_9F19AF",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "21:30:00",
+          "type": "출금",
+          "amount": -2017,
+          "balanceAfter": 635226,
+          "description": "카카오톡 이모티콘 구매",
+          "categoryCode": "ETC_KAKAO_001",
+          "counterparty": {
+            "name": "ETC_KAKAO_001",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_75354A",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "14:00:00",
+          "type": "출금",
+          "amount": -7338,
+          "balanceAfter": 627888,
+          "description": "카카오페이 택시",
+          "categoryCode": "TRANSPORT_TAXI_001",
+          "counterparty": {
+            "name": "TRANSPORT_TAXI_001",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_538F45",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 3,
+          "time": "00:30:00",
+          "type": "출금",
+          "amount": -2996,
+          "balanceAfter": 624891,
+          "description": "멜론 정기결제",
+          "categoryCode": "ENT_MUSIC_002",
+          "counterparty": {
+            "name": "ENT_MUSIC_002",
+            "bank": "비자카드",
+            "accountNumber": "VISA-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_3ED590",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 4,
+          "time": "21:30:00",
+          "type": "출금",
+          "amount": -2017,
+          "balanceAfter": 622873,
+          "description": "카카오톡 이모티콘 구매",
+          "categoryCode": "ETC_KAKAO_001",
+          "counterparty": {
+            "name": "ETC_KAKAO_001",
+            "bank": "카카오페이",
+            "accountNumber": "KAKAOPAY-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_C46BDF",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 6,
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -61150,
+          "balanceAfter": 561723,
+          "description": "적금 자동이체",
+          "categoryCode": "FINANCE_SAVING_001",
+          "counterparty": {
+            "name": "FINANCE_SAVING_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1112223"
+          }
+        },
+        {
+          "transactionId": "ANON_10D111",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 7,
+          "time": "10:00:00",
+          "type": "이체",
+          "amount": -61150,
+          "balanceAfter": 500573,
+          "description": "적금 자동이체",
+          "categoryCode": "FINANCE_SAVING_001",
+          "counterparty": {
+            "name": "FINANCE_SAVING_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-1112223"
+          }
+        },
+        {
+          "transactionId": "ANON_87C97C",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 8,
+          "time": "12:40:00",
+          "type": "이체",
+          "amount": -9172,
+          "balanceAfter": 491401,
+          "description": "친구에게 송금 (영화비)",
+          "categoryCode": "TRANSFER_FRIEND_002",
+          "counterparty": {
+            "name": "TRANSFER_FRIEND_002",
+            "bank": "신한은행",
+            "accountNumber": "110-**-666777"
+          }
+        },
+        {
+          "transactionId": "ANON_910045",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 8,
+          "time": "08:00:00",
+          "type": "입금",
+          "amount": 30575,
+          "balanceAfter": 521976,
+          "description": "용돈 입금",
+          "categoryCode": "TRANSFER_FAMILY_001",
+          "counterparty": {
+            "name": "TRANSFER_FAMILY_001",
+            "bank": "농협",
+            "accountNumber": "302-**-91"
+          }
+        },
+        {
+          "transactionId": "ANON_2B9346",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 2,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 9,
+          "time": "09:30:00",
+          "type": "출금",
+          "amount": -5503,
+          "balanceAfter": 516472,
+          "description": "카카오뱅크 미니 카드 결제 (편의점)",
+          "categoryCode": "F_B_CONVENIENCE_001",
+          "counterparty": {
+            "name": "F_B_CONVENIENCE_001",
+            "bank": "국민은행",
+            "accountNumber": "012-**-888777"
+          }
+        },
+        {
+          "transactionId": "ANON_6A5611",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 2,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 9,
+          "time": "13:00:00",
+          "type": "이체",
+          "amount": -30575,
+          "balanceAfter": 485897,
+          "description": "여행 적립금 이체",
+          "categoryCode": "FINANCE_GROUP_001",
+          "counterparty": {
+            "name": "FINANCE_GROUP_001",
+            "bank": "카카오뱅크",
+            "accountNumber": "3333-**-4445556"
+          }
+        }
+      ]
+    },
+    {
+      "bankCode": "048",
+      "bankName": "신한은행",
+      "branchCode": "***",
+      "branchName": "***",
+      "accountNumber": "110-**-654321",
+      "accountHolder": "P_6C3B4F",
+      "accountType": "정기예금연계 입출금통장",
+      "nickname": "계좌_ACCT_9FFB92",
+      "currency": "KRW",
+      "openDate": "2019-01",
+      "status": "ACTIVE",
+      "balance": 3132683,
+      "availableBalance": 3102108,
+      "transactions": [
+        {
+          "transactionId": "ANON_3E2320",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 9,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 764,
+          "balanceAfter": 1957564,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_574DE5",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 9,
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -73380,
+          "balanceAfter": 1884184,
+          "description": "여행 경비 인출",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_C77BF2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 9,
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -73380,
+          "balanceAfter": 1810804,
+          "description": "여행 경비 인출",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_849CB2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 10,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 856,
+          "balanceAfter": 1811660,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_176A2B",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 10,
+          "time": "14:30:00",
+          "type": "출금",
+          "amount": -48920,
+          "balanceAfter": 1762740,
+          "description": "기념일 선물 구매",
+          "categoryCode": "SHOPPING_BEAUTY_001",
+          "counterparty": {
+            "name": "SHOPPING_BEAUTY_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_8E2190",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 11,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 856,
+          "balanceAfter": 1763596,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_B18055",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 12,
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 1754424,
+          "description": "ATM 출금 수수료",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-FEE"
+          }
+        },
+        {
+          "transactionId": "ANON_5780E8",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 13,
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 1745251,
+          "description": "ATM 출금 수수료",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-FEE"
+          }
+        },
+        {
+          "transactionId": "ANON_665A9C",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 2,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 13,
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -73380,
+          "balanceAfter": 1671871,
+          "description": "여행 경비 인출",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_66434F",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 15,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 764,
+          "balanceAfter": 1672635,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_FC3810",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 17,
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 1663463,
+          "description": "ATM 출금 수수료",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-FEE"
+          }
+        },
+        {
+          "transactionId": "ANON_22EA41",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 18,
+          "time": "16:00:00",
+          "type": "출금",
+          "amount": -73380,
+          "balanceAfter": 1590083,
+          "description": "여행 경비 인출",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-001"
+          }
+        },
+        {
+          "transactionId": "ANON_006D81",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 19,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 764,
+          "balanceAfter": 1590847,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_9065BA",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "14:30:00",
+          "type": "출금",
+          "amount": -48920,
+          "balanceAfter": 1541927,
+          "description": "기념일 선물 구매",
+          "categoryCode": "SHOPPING_BEAUTY_001",
+          "counterparty": {
+            "name": "SHOPPING_BEAUTY_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_8EF47F",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "09:30:00",
+          "type": "입금",
+          "amount": 244600,
+          "balanceAfter": 1786527,
+          "description": "비상금 추가 적립",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_E91C67",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 20,
+          "time": "17:00:00",
+          "type": "출금",
+          "amount": -18345,
+          "balanceAfter": 1768182,
+          "description": "교재 구매",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_0E358E",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 3,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 21,
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -122300,
+          "balanceAfter": 1645882,
+          "description": "노트북 부품 구매",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "국민은행",
+            "accountNumber": "012-**-222333"
+          }
+        },
+        {
+          "transactionId": "ANON_34E644",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 22,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 764,
+          "balanceAfter": 1646647,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_0CFCA1",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 24,
+          "time": "17:00:00",
+          "type": "출금",
+          "amount": -18345,
+          "balanceAfter": 1628302,
+          "description": "교재 구매",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한카드",
+            "accountNumber": "SHINHAN-**-002"
+          }
+        },
+        {
+          "transactionId": "ANON_359DC3",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "TUE",
+          "dayOfMonth": 26,
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 1619129,
+          "description": "ATM 출금 수수료",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-FEE"
+          }
+        },
+        {
+          "transactionId": "ANON_10EED8",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 27,
+          "time": "10:30:00",
+          "type": "입금",
+          "amount": 305750,
+          "balanceAfter": 1924879,
+          "description": "비상금 추가 적립",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_653D72",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 27,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 794,
+          "balanceAfter": 1925674,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_7E6DA2",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 27,
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 1916502,
+          "description": "ATM 출금 수수료",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-FEE"
+          }
+        },
+        {
+          "transactionId": "ANON_726305",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 4,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 28,
+          "time": "09:00:00",
+          "type": "입금",
+          "amount": 183450,
+          "balanceAfter": 2099952,
+          "description": "비상금 적립 이체",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_9F1B45",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "FRI",
+          "dayOfMonth": 29,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 794,
+          "balanceAfter": 2100747,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_D973E3",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 30,
+          "time": "09:00:00",
+          "type": "입금",
+          "amount": 183450,
+          "balanceAfter": 2284197,
+          "description": "비상금 적립 이체",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_1A5119",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "SAT",
+          "dayOfMonth": 30,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 794,
+          "balanceAfter": 2284992,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_85C3DA",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 31,
+          "time": "10:30:00",
+          "type": "입금",
+          "amount": 305750,
+          "balanceAfter": 2590742,
+          "description": "비상금 추가 적립",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_B476C4",
+          "yearMonth": "2026-05",
+          "weekOfMonth": 5,
+          "dayOfWeek": "SUN",
+          "dayOfMonth": 31,
+          "time": "10:30:00",
+          "type": "입금",
+          "amount": 305750,
+          "balanceAfter": 2896492,
+          "description": "비상금 추가 적립",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_1CD1B3",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "00:00:00",
+          "type": "입금",
+          "amount": 764,
+          "balanceAfter": 2897256,
+          "description": "예금 이자 입금",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "INTEREST-**-AUTO"
+          }
+        },
+        {
+          "transactionId": "ANON_1E5AF8",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "09:30:00",
+          "type": "입금",
+          "amount": 244600,
+          "balanceAfter": 3141856,
+          "description": "비상금 추가 적립",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_D5C97C",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "19:00:00",
+          "type": "출금",
+          "amount": -9172,
+          "balanceAfter": 3132683,
+          "description": "ATM 출금 수수료",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "신한은행",
+            "accountNumber": "ATM-**-FEE"
+          }
+        },
+        {
+          "transactionId": "ANON_11A815",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "MON",
+          "dayOfMonth": 1,
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -122300,
+          "balanceAfter": 3010383,
+          "description": "노트북 부품 구매",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "국민은행",
+            "accountNumber": "012-**-222333"
+          }
+        },
+        {
+          "transactionId": "ANON_4F3197",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "WED",
+          "dayOfMonth": 3,
+          "time": "09:30:00",
+          "type": "입금",
+          "amount": 244600,
+          "balanceAfter": 3254983,
+          "description": "비상금 추가 적립",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "테스트은행",
+            "accountNumber": "088-**-345678"
+          }
+        },
+        {
+          "transactionId": "ANON_5499C2",
+          "yearMonth": "2026-06",
+          "weekOfMonth": 1,
+          "dayOfWeek": "THU",
+          "dayOfMonth": 4,
+          "time": "11:00:00",
+          "type": "출금",
+          "amount": -122300,
+          "balanceAfter": 3132683,
+          "description": "노트북 부품 구매",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "counterparty": {
+            "name": "UNCLASSIFIED_OTHER_001",
+            "bank": "국민은행",
+            "accountNumber": "012-**-222333"
+          }
+        }
+      ]
+    }
+  ]
+}

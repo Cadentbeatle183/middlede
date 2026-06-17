@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Original sensitive data
+data/original/
+
+# Anonymization mapping (contains mapping info - treat as sensitive)
+data/anonymized/mapping.json
+
+# Environment
+.env
+.env.local
+
+# GitHub Actions
+.github/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
