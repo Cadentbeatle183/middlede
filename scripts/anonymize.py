@@ -53,6 +53,7 @@ VENDOR_CATEGORY_MAP = {
     "카카오뱅크 26주적금": "FINANCE_SAVING_001",
     "여행모임": "FINANCE_GROUP_001",
     "동아리회비": "FINANCE_GROUP_002",
+    "동아리회장 정민지": "FINANCE_GROUP_002",
     "친구송금": "TRANSFER_FRIEND_001",
     "김철수": "TRANSFER_FRIEND_001",
     "박지훈": "TRANSFER_FRIEND_002",

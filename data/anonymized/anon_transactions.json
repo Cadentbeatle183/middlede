@@ -1016,7 +1016,7 @@
           "amount": -20000,
           "balanceAfter": 951100,
           "description": "동아리 회비 이체",
-          "categoryCode": "UNCLASSIFIED_OTHER_001",
+          "categoryCode": "FINANCE_GROUP_002",
           "counterparty": {
             "name": "동아리회장 정민지",
             "bank": "카카오뱅크",
