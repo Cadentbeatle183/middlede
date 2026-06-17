@@ -34,7 +34,7 @@ VENDOR_CATEGORY_MAP = {
     "서울도시가스": "UTILITY_GAS_001",
     "스포애니 강남점": "FIT_GYM_001",
     "스포애니": "FIT_GYM_001",
-    "임대인 박영희": "HOUSING_RENT_001",
+    "임대인": "HOUSING_RENT_001",
     "우아한형제들": "F&B_DELIVERY_001",
     "배달의민족": "F&B_DELIVERY_001",
     "김밥천국 역삼점": "F&B_KOREAN_001",
@@ -51,11 +51,10 @@ VENDOR_CATEGORY_MAP = {
     "올리브영": "SHOPPING_BEAUTY_001",
     "카카오": "ETC_KAKAO_001",
     "카카오뱅크 26주적금": "FINANCE_SAVING_001",
-    "여행모임 총무 최수진": "FINANCE_GROUP_001",
-    "동아리회장 정민지": "FINANCE_GROUP_002",
-    "김철수": "TRANSFER_FRIEND_001",
-    "박지훈": "TRANSFER_FRIEND_002",
-    "홍부모": "TRANSFER_FAMILY_001",
+    "여행모임": "FINANCE_GROUP_001",
+    "동아리회비": "FINANCE_GROUP_002",
+    "친구송금": "TRANSFER_FRIEND_001",
+    "가족송금": "TRANSFER_FAMILY_001",
 }
 
 DEFAULT_CATEGORY = "UNCLASSIFIED_OTHER_001"
@@ -149,10 +148,17 @@ def anonymize_transactions(data: dict) -> dict:
                     except:
                         day_of_week = "UNKNOWN"
 
-            # 거래처 처리 - 원본 이름 유지 (서비스 정확성)
+            # 거래처 처리 - 개인정보 자동 마스킹 후 매핑
             counterparty = tx.get("counterparty", {})
             cp_name = counterparty.get("name", "")
-            category_code = VENDOR_CATEGORY_MAP.get(cp_name, DEFAULT_CATEGORY)
+            # 매핑 키와 일치하는지 확인 (예: "임대인 박영희" → "임대인")
+            mapped_name = None
+            for vendor_key in VENDOR_CATEGORY_MAP:
+                if cp_name == vendor_key or cp_name.startswith(vendor_key):
+                    mapped_name = vendor_key
+                    break
+            final_name = mapped_name if mapped_name else cp_name
+            category_code = VENDOR_CATEGORY_MAP.get(final_name, DEFAULT_CATEGORY)
 
             # 상대방 계좌 마스킹
             cp_account = counterparty.get("accountNumber", "")
@@ -182,7 +188,7 @@ def anonymize_transactions(data: dict) -> dict:
             anon_tx["description"] = description
             anon_tx["categoryCode"] = category_code
             anon_tx["counterparty"] = OrderedDict()
-            anon_tx["counterparty"]["name"] = cp_name  # 실제 거래처명 유지
+            anon_tx["counterparty"]["name"] = final_name  # 개인정보 제거된 거래처명
             anon_tx["counterparty"]["bank"] = counterparty.get("bank", "")
             anon_tx["counterparty"]["accountNumber"] = cp_account_masked
 

@@ -155,7 +155,7 @@
           "description": "월세 자동이체",
           "categoryCode": "HOUSING_RENT_001",
           "counterparty": {
-            "name": "임대인 박영희",
+            "name": "임대인",
             "bank": "우리은행",
             "accountNumber": "1002-**-678901"
           }
@@ -189,7 +189,7 @@
           "amount": -30000,
           "balanceAfter": 3205600,
           "description": "친구에게 이체",
-          "categoryCode": "TRANSFER_FRIEND_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "김철수",
             "bank": "카카오뱅크",
@@ -423,7 +423,7 @@
           "amount": -30000,
           "balanceAfter": 2953700,
           "description": "친구에게 이체",
-          "categoryCode": "TRANSFER_FRIEND_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "김철수",
             "bank": "카카오뱅크",
@@ -497,7 +497,7 @@
           "description": "월세 자동이체",
           "categoryCode": "HOUSING_RENT_001",
           "counterparty": {
-            "name": "임대인 박영희",
+            "name": "임대인",
             "bank": "우리은행",
             "accountNumber": "1002-**-678901"
           }
@@ -531,7 +531,7 @@
           "amount": -30000,
           "balanceAfter": 2317100,
           "description": "친구에게 이체",
-          "categoryCode": "TRANSFER_FRIEND_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "김철수",
             "bank": "카카오뱅크",
@@ -569,7 +569,7 @@
           "description": "월세 자동이체",
           "categoryCode": "HOUSING_RENT_001",
           "counterparty": {
-            "name": "임대인 박영희",
+            "name": "임대인",
             "bank": "우리은행",
             "accountNumber": "1002-**-678901"
           }
@@ -710,7 +710,7 @@
           "amount": 50000,
           "balanceAfter": 279500,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -728,7 +728,7 @@
           "amount": -15000,
           "balanceAfter": 264500,
           "description": "친구에게 송금 (영화비)",
-          "categoryCode": "TRANSFER_FRIEND_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "박지훈",
             "bank": "신한은행",
@@ -746,7 +746,7 @@
           "amount": 200000,
           "balanceAfter": 464500,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -782,7 +782,7 @@
           "amount": 200000,
           "balanceAfter": 639500,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -800,9 +800,9 @@
           "amount": -100000,
           "balanceAfter": 539500,
           "description": "적금 자동이체",
-          "categoryCode": "FINANCE_SAVING_001",
+          "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "카카오뱅크 26주적금",
+            "name": "카카오",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -818,7 +818,7 @@
           "amount": 50000,
           "balanceAfter": 589500,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -854,7 +854,7 @@
           "amount": 50000,
           "balanceAfter": 614500,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -872,7 +872,7 @@
           "amount": 15000,
           "balanceAfter": 629500,
           "description": "친구에게 받음 (택시비 정산)",
-          "categoryCode": "TRANSFER_FRIEND_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "박지훈",
             "bank": "신한은행",
@@ -890,7 +890,7 @@
           "amount": 200000,
           "balanceAfter": 829500,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -926,7 +926,7 @@
           "amount": 200000,
           "balanceAfter": 1024600,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -982,7 +982,7 @@
           "description": "여행 적립금 이체",
           "categoryCode": "FINANCE_GROUP_001",
           "counterparty": {
-            "name": "여행모임 총무 최수진",
+            "name": "여행모임",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-4445556"
           }
@@ -998,7 +998,7 @@
           "amount": 15000,
           "balanceAfter": 971100,
           "description": "친구에게 받음 (택시비 정산)",
-          "categoryCode": "TRANSFER_FRIEND_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "박지훈",
             "bank": "신한은행",
@@ -1016,7 +1016,7 @@
           "amount": -20000,
           "balanceAfter": 951100,
           "description": "동아리 회비 이체",
-          "categoryCode": "FINANCE_GROUP_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "동아리회장 정민지",
             "bank": "카카오뱅크",
@@ -1034,9 +1034,9 @@
           "amount": -100000,
           "balanceAfter": 851100,
           "description": "적금 자동이체",
-          "categoryCode": "FINANCE_SAVING_001",
+          "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "카카오뱅크 26주적금",
+            "name": "카카오",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -1052,7 +1052,7 @@
           "amount": -15000,
           "balanceAfter": 836100,
           "description": "친구에게 송금 (영화비)",
-          "categoryCode": "TRANSFER_FRIEND_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "박지훈",
             "bank": "신한은행",
@@ -1070,7 +1070,7 @@
           "amount": 200000,
           "balanceAfter": 1036100,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -1088,7 +1088,7 @@
           "amount": 15000,
           "balanceAfter": 1051100,
           "description": "친구에게 받음 (택시비 정산)",
-          "categoryCode": "TRANSFER_FRIEND_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "박지훈",
             "bank": "신한은행",
@@ -1196,9 +1196,9 @@
           "amount": -100000,
           "balanceAfter": 918600,
           "description": "적금 자동이체",
-          "categoryCode": "FINANCE_SAVING_001",
+          "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "카카오뱅크 26주적금",
+            "name": "카카오",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -1214,9 +1214,9 @@
           "amount": -100000,
           "balanceAfter": 818600,
           "description": "적금 자동이체",
-          "categoryCode": "FINANCE_SAVING_001",
+          "categoryCode": "ETC_KAKAO_001",
           "counterparty": {
-            "name": "카카오뱅크 26주적금",
+            "name": "카카오",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-1112223"
           }
@@ -1232,7 +1232,7 @@
           "amount": -15000,
           "balanceAfter": 803600,
           "description": "친구에게 송금 (영화비)",
-          "categoryCode": "TRANSFER_FRIEND_002",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "박지훈",
             "bank": "신한은행",
@@ -1250,7 +1250,7 @@
           "amount": 50000,
           "balanceAfter": 853600,
           "description": "용돈 입금",
-          "categoryCode": "TRANSFER_FAMILY_001",
+          "categoryCode": "UNCLASSIFIED_OTHER_001",
           "counterparty": {
             "name": "홍부모",
             "bank": "농협",
@@ -1288,7 +1288,7 @@
           "description": "여행 적립금 이체",
           "categoryCode": "FINANCE_GROUP_001",
           "counterparty": {
-            "name": "여행모임 총무 최수진",
+            "name": "여행모임",
             "bank": "카카오뱅크",
             "accountNumber": "3333-**-4445556"
           }
