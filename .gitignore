@@ -16,9 +16,6 @@ data/anonymized/mapping.json
 .env
 .env.local
 
-# GitHub Actions
-.github/
-
 # IDE
 .vscode/
 .idea/
