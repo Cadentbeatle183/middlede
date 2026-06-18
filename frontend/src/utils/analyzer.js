@@ -6,18 +6,14 @@
  * - 미사용 구독 추정
  */
 
-// 구독으로 분류할 카테고리 (정기결제 성격이 있는 것들)
+// 구독으로 분류할 카테고리 (진짜 구독만)
 const SUBSCRIPTION_CATEGORIES = [
   'ENT_OTT_STREAMING',
   'ENT_MUSIC',
   'TELECOM_MOBILE',
   'FIT_GYM',
-  'FIT',
   'HOUSING_RENT',
   'UTILITY_GAS',
-  'UTILITY',
-  'FINANCE_SAVING',
-  'ENT',
 ];
 
 // 카테고리명 동적 캐시 (거래처명 저장용)
@@ -75,6 +71,13 @@ function detectRecurringPayments(transactions) {
   for (const tx of transactions) {
     if (tx.type !== '출금') continue;
     if (tx.amount >= 0) continue;
+
+    // 진짜 구독 카테고리만 탐지 (신한은행/카카오 등 제외)
+    const catGroup = tx.categoryCode?.split('_').slice(0, 2).join('_');
+    const isSubCategory = SUBSCRIPTION_CATEGORIES.some(
+      c => catGroup === c || tx.categoryCode?.startsWith(c)
+    );
+    if (!isSubCategory) continue;
 
     const key = `${tx.categoryCode}|${tx.amount}`;
     if (!patternMap[key]) {
