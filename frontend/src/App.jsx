@@ -22,6 +22,7 @@ function App() {
   const [allRenewals, setAllRenewals] = useState([]);
   const [thisWeekRenewals, setThisWeekRenewals] = useState([]);
   const [nextWeekRenewals, setNextWeekRenewals] = useState([]);
+  const [allTransactions, setAllTransactions] = useState([]);
 
   useEffect(() => {
     // 비식별화된 유저명 표시
@@ -38,6 +39,8 @@ function App() {
         }
       }
     }
+
+    setAllTransactions(allTransactions);
 
     if (allTransactions.length > 0) {
       // 1. 구독 감지 분석
@@ -107,7 +110,10 @@ function App() {
 
         {/* 구독 목록 + 갱신 캘린더 */}
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
-          <SubscriptionList subscriptions={analysis?.subscriptions || []} />
+          <SubscriptionList
+            subscriptions={analysis?.subscriptions || []}
+            allTransactions={allTransactions}
+          />
           <RenewalCalendar
             thisWeek={thisWeekRenewals}
             nextWeek={nextWeekRenewals}
