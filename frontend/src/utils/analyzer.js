@@ -6,14 +6,18 @@
  * - 미사용 구독 추정
  */
 
-// 구독으로 분류할 카테고리 (진짜 구독 서비스만)
+// 구독으로 분류할 카테고리 (정기결제 성격이 있는 것들)
 const SUBSCRIPTION_CATEGORIES = [
-  'ENT_OTT_STREAMING',  // 넷플릭스, 유튜브, 왓챠
-  'ENT_MUSIC',          // 스포티파이, 멜론
-  'TELECOM_MOBILE',     // SKT 통신비
-  'FIT_GYM',            // 헬스장
-  'HOUSING_RENT',       // 월세
-  'UTILITY_GAS',        // 도시가스
+  'ENT_OTT_STREAMING',
+  'ENT_MUSIC',
+  'TELECOM_MOBILE',
+  'FIT_GYM',
+  'FIT',
+  'HOUSING_RENT',
+  'UTILITY_GAS',
+  'UTILITY',
+  'FINANCE_SAVING',
+  'ENT',
 ];
 
 // 카테고리명 동적 캐시 (거래처명 저장용)
@@ -72,11 +76,6 @@ function detectRecurringPayments(transactions) {
     if (tx.type !== '출금') continue;
     if (tx.amount >= 0) continue;
 
-    // 진짜 구독 카테고리만 탐지
-    const catGroup = tx.categoryCode?.split('_').slice(0, 2).join('_');
-    const isSubCategory = SUBSCRIPTION_CATEGORIES.some(c => catGroup?.startsWith(c) || tx.categoryCode?.startsWith(c));
-    if (!isSubCategory) continue;
-
     const key = `${tx.categoryCode}|${tx.amount}`;
     if (!patternMap[key]) {
       patternMap[key] = {
@@ -85,7 +84,6 @@ function detectRecurringPayments(transactions) {
         transactions: [],
         months: new Set(),
         isSubscription: false,
-        label: tx.description || tx.counterparty?.name || tx.categoryCode,
       };
     }
     patternMap[key].transactions.push(tx);
