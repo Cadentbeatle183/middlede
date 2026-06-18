@@ -5,7 +5,7 @@ export default function Header({ unreadCount, userName }) {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center gap-2">
             <span className="text-2xl">🧊</span>
-            <h1 className="text-xl font-bold text-gray-900">SubZero</h1>
+            <h1 className="text-xl font-bold text-gray-900">Submate</h1>
             <span className="text-xs text-gray-400 ml-1">AI 구독 관리</span>
           </div>
           <div className="flex items-center gap-4">

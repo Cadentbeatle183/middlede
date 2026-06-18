@@ -124,7 +124,7 @@ function App() {
 
       <footer className="bg-white border-t border-gray-200 py-6">
         <div className="max-w-7xl mx-auto px-4 text-center text-xs text-gray-400">
-          🧊 SubZero — AI 기반 구독 서비스 통합 관리 플랫폼
+          🧊 Submate — AI 기반 구독 서비스 통합 관리 플랫폼
           <br />
           비식별화 처리된 데이터 기반 (스케일링 계수: {anonData?.accounts?.[0]?.transactions?.[0]?.balanceAfter ? '적용됨' : '0.6115'})
         </div>
